@@ -1,0 +1,601 @@
+﻿Orden_ID,Fecha,Cliente,Sector_Cliente,Tipo_Equipo,Componente,Tipo_Servicio,Tecnico_Responsable,Tiempo_Reparacion_Horas,Costo_Repuestos_PEN,Costo_Mano_Obra_PEN,Costo_Total_PEN,Estado,Reincidencia
+OT-2024068,2024-01-02,Cementos Yura,Construcción,Volquete,Alternador,Mantenimiento Hidráulico,Luis Flores,8.8,4824.93,435.62,5260.55,Completado,No
+OT-2024212,2024-01-02,Minera Chapi,Construcción,Grúa,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,9.9,7098.51,519.76,7618.27,Completado,No
+OT-2024268,2024-01-02,Consorcio Vial Sur,Industria,Cargador Frontal,Alternador,Soldadura,José Quispe,7.0,2640.68,292.44,2933.12,Pendiente,No
+OT-2024420,2024-01-05,Cerro Verde,Energía,Tractor,Motor Eléctrico,Mantenimiento Hidráulico,Ana Torres,10.6,5714.72,546.58,6261.3,Completado,No
+OT-2024132,2024-01-05,Minera Chapi,Transporte,Retroexcavadora,Acumulador de Freno,Cromado Duro,Pedro Vilca,14.2,3365.41,718.48,4083.89,Pendiente,No
+OT-2024598,2024-01-09,Transportes Rodríguez,Energía,Perforadora,Arrancador,Cromado Duro,Luis Flores,6.6,7074.61,346.86,7421.47,Completado,No
+OT-2024275,2024-01-09,Yura S.A.,Energía,Excavadora,Alternador,Soldadura,Ana Torres,8.2,5994.48,438.27,6432.75,Completado,No
+OT-2024512,2024-01-12,Buenaventura,Minería,Excavadora,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,7.9,1916.7,326.66,2243.36,Completado,No
+OT-2024053,2024-01-14,Minera Chapi,Transporte,Grúa,Rueda,Mantenimiento Hidráulico,Pedro Vilca,2.9,2451.81,127.29,2579.1,Pendiente,No
+OT-2024097,2024-01-15,Cementos Yura,Construcción,Tractor,Bastidor,Soldadura,Luis Flores,4.3,2780.94,198.74,2979.68,En proceso,No
+OT-2024138,2024-01-15,Constructora Andina,Energía,Retroexcavadora,Cilindro Hidráulico,Soldadura,Ana Torres,6.9,5166.02,347.4,5513.42,Pendiente,Sí
+OT-2024490,2024-01-16,Transportes Rodríguez,Energía,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Luis Flores,8.5,7097.88,329.75,7427.63,Completado,No
+OT-2024340,2024-01-17,Aceros Arequipa,Construcción,Volquete,Cucharón,Soldadura,Miguel Choque,7.0,3583.98,273.77,3857.75,Completado,No
+OT-2024365,2024-01-18,Cementos Yura,Minería,Tractor,Rueda,Mantenimiento Hidráulico,José Quispe,8.6,1066.87,440.34,1507.21,Pendiente,No
+OT-2024559,2024-01-19,Cerro Verde,Minería,Volquete,Motor Eléctrico,Mantenimiento Hidráulico,Luis Flores,16.6,3369.39,965.53,4334.92,Completado,No
+OT-2024390,2024-01-20,Cerro Verde,Construcción,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,9.6,1381.17,450.58,1831.75,En proceso,No
+OT-2024006,2024-01-21,Transportes Rodríguez,Minería,Excavadora,Cilindro Hidráulico,Soldadura,Ana Torres,1.6,2274.32,70.41,2344.73,En proceso,No
+OT-2024047,2024-01-21,Buenaventura,Energía,Volquete,Cucharón,Soldadura,Miguel Choque,2.7,7162.84,149.68,7312.52,En proceso,No
+OT-2024319,2024-01-22,Constructora Andina,Construcción,Grúa,Alternador,Soldadura,José Quispe,8.8,2590.42,488.92,3079.34,Completado,Sí
+OT-2024029,2024-01-22,Constructora Andina,Energía,Retroexcavadora,Mando Final,Mantenimiento Hidráulico,Ana Torres,5.6,7426.31,297.02,7723.33,Pendiente,Sí
+OT-2024480,2024-01-23,Cerro Verde,Construcción,Grúa,Rueda,Mantenimiento Hidráulico,Ana Torres,8.3,998.46,446.49,1444.95,Completado,No
+OT-2024577,2024-01-25,Minera Chapi,Minería,Excavadora,Suspensión,Mantenimiento Hidráulico,Pedro Vilca,6.0,5379.46,245.63,5625.09,Pendiente,No
+OT-2024327,2024-01-27,Minera Chapi,Minería,Tractor,Alternador,Cromado Duro,Ana Torres,13.9,9838.91,698.45,10537.36,Completado,No
+OT-2024163,2024-01-28,Cementos Yura,Energía,Excavadora,Cilindro Hidráulico,Soldadura,José Quispe,4.9,1095.2,276.87,1372.07,Completado,No
+OT-2024116,2024-01-28,Aceros Arequipa,Transporte,Tractor,Cucharón,Mantenimiento Hidráulico,Luis Flores,10.0,3888.56,483.84,4372.4,Completado,No
+OT-2024314,2024-02-02,Yura S.A.,Construcción,Cargador Frontal,Rueda,Mantenimiento Hidráulico,Miguel Choque,5.9,7807.68,327.0,8134.68,Completado,No
+OT-2024119,2024-02-02,Aceros Arequipa,Minería,Retroexcavadora,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,14.5,5013.82,667.87,5681.69,Completado,No
+OT-2024517,2024-02-04,Minera Chapi,Minería,Grúa,Alternador,Soldadura,Miguel Choque,11.2,5127.43,537.25,5664.68,Completado,Sí
+OT-2024063,2024-02-04,Southern Perú,Minería,Grúa,Bastidor,Sistema Eléctrico,Pedro Vilca,4.1,3458.58,186.69,3645.27,Completado,No
+OT-2024388,2024-02-05,Yura S.A.,Transporte,Excavadora,Mando Final,Soldadura,Pedro Vilca,4.8,683.89,208.72,892.61,En proceso,No
+OT-2024152,2024-02-05,Constructora Andina,Transporte,Cargador Frontal,Mando Final,Soldadura,Miguel Choque,3.7,1958.42,194.52,2152.94,En proceso,Sí
+OT-2024349,2024-02-06,Buenaventura,Energía,Retroexcavadora,Cilindro Hidráulico,Soldadura,Luis Flores,1.9,5256.24,77.5,5333.74,Completado,No
+OT-2024273,2024-02-06,Cerro Verde,Minería,Retroexcavadora,Rueda,Mantenimiento Hidráulico,Luis Flores,7.7,2137.33,310.77,2448.1,Completado,No
+OT-2024546,2024-02-06,Consorcio Vial Sur,Energía,Excavadora,Alternador,Soldadura,Pedro Vilca,9.1,1038.11,322.35,1360.46,Pendiente,No
+OT-2024321,2024-02-07,Minera Chapi,Minería,Cargador Frontal,Cucharón,Soldadura,Miguel Choque,6.5,5317.23,318.43,5635.66,Completado,No
+OT-2024584,2024-02-08,Constructora Andina,Construcción,Volquete,Mando Final,Sistema Eléctrico,Ana Torres,5.6,323.64,298.19,621.83,Pendiente,No
+OT-2024381,2024-02-08,Southern Perú,Transporte,Volquete,Suspensión,Soldadura,Luis Flores,5.8,6904.54,288.88,7193.42,En proceso,No
+OT-2024095,2024-02-10,Cementos Yura,Transporte,Perforadora,Estructura Metálica,Mantenimiento Hidráulico,Carlos Mamani,9.6,6991.85,442.87,7434.72,Completado,No
+OT-2024115,2024-02-10,Cementos Yura,Minería,Tractor,Motor Eléctrico,Mantenimiento Hidráulico,Carlos Mamani,5.3,5909.27,298.28,6207.55,Completado,No
+OT-2024587,2024-02-11,Transportes Rodríguez,Minería,Excavadora,Rueda,Mantenimiento Hidráulico,Miguel Choque,4.3,5639.97,219.6,5859.57,En proceso,No
+OT-2024508,2024-02-12,Transportes Rodríguez,Minería,Tractor,Estructura Metálica,Sistema Eléctrico,Miguel Choque,5.5,7739.65,253.47,7993.12,Completado,No
+OT-2024345,2024-02-15,Transportes Rodríguez,Energía,Grúa,Cilindro Hidráulico,Soldadura,Carlos Mamani,6.1,3001.83,339.09,3340.92,Completado,No
+OT-2024467,2024-02-16,Yura S.A.,Minería,Perforadora,Suspensión,Sistema Eléctrico,Ana Torres,4.0,887.45,217.68,1105.13,Completado,No
+OT-2024424,2024-02-16,Transportes Rodríguez,Minería,Retroexcavadora,Mando Final,Cromado Duro,Pedro Vilca,21.6,7622.77,954.16,8576.93,Completado,No
+OT-2024120,2024-02-17,Transportes Rodríguez,Construcción,Cargador Frontal,Cucharón,Soldadura,Pedro Vilca,4.4,1684.53,159.76,1844.29,En proceso,No
+OT-2024338,2024-02-18,Consorcio Vial Sur,Minería,Perforadora,Cilindro Hidráulico,Sistema Eléctrico,Pedro Vilca,5.7,6877.83,250.34,7128.17,Completado,No
+OT-2024400,2024-02-20,Yura S.A.,Minería,Tractor,Mando Final,Sistema Eléctrico,Pedro Vilca,1.0,5398.87,37.0,5435.87,En proceso,No
+OT-2024221,2024-02-22,Constructora Andina,Transporte,Perforadora,Cucharón,Soldadura,Ana Torres,5.5,4051.75,245.8,4297.55,Pendiente,No
+OT-2024090,2024-02-22,Cementos Yura,Construcción,Tractor,Motor Eléctrico,Soldadura,Luis Flores,12.4,5809.77,504.82,6314.59,Completado,No
+OT-2024417,2024-02-22,Cementos Yura,Construcción,Volquete,Cilindro Hidráulico,Soldadura,José Quispe,4.2,6505.48,211.22,6716.7,En proceso,No
+OT-2024413,2024-02-23,Aceros Arequipa,Construcción,Perforadora,Suspensión,Soldadura,José Quispe,5.7,537.86,299.16,837.02,Pendiente,No
+OT-2024283,2024-02-23,Consorcio Vial Sur,Minería,Perforadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Ana Torres,1.0,2508.35,46.48,2554.83,Completado,No
+OT-2024435,2024-02-27,Consorcio Vial Sur,Construcción,Retroexcavadora,Estructura Metálica,Mantenimiento Hidráulico,Luis Flores,2.7,772.24,139.26,911.5,Pendiente,No
+OT-2024442,2024-02-27,Buenaventura,Minería,Volquete,Estructura Metálica,Sistema Eléctrico,Miguel Choque,6.0,2283.19,290.2,2573.39,Completado,No
+OT-2024033,2024-02-28,Consorcio Vial Sur,Construcción,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,Luis Flores,4.5,2631.43,185.46,2816.89,Completado,No
+OT-2024553,2024-03-02,Yura S.A.,Minería,Cargador Frontal,Arrancador,Sistema Eléctrico,Pedro Vilca,4.2,5381.85,183.05,5564.9,Completado,Sí
+OT-2024104,2024-03-03,Cerro Verde,Industria,Grúa,Alternador,Soldadura,Carlos Mamani,6.6,3272.14,338.45,3610.59,Completado,No
+OT-2024098,2024-03-05,Aceros Arequipa,Energía,Tractor,Bastidor,Sistema Eléctrico,Miguel Choque,3.3,486.04,176.25,662.29,En proceso,No
+OT-2024574,2024-03-09,Transportes Rodríguez,Construcción,Volquete,Estructura Metálica,Sistema Eléctrico,Luis Flores,3.1,4522.66,154.06,4676.72,Pendiente,No
+OT-2024466,2024-03-09,Aceros Arequipa,Construcción,Perforadora,Mando Final,Soldadura,Pedro Vilca,1.7,1043.61,95.29,1138.9,En proceso,No
+OT-2024004,2024-03-12,Cerro Verde,Minería,Excavadora,Cilindro Hidráulico,Cromado Duro,Ana Torres,13.1,1008.3,639.89,1648.19,Completado,No
+OT-2024599,2024-03-14,Cerro Verde,Construcción,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,12.1,4611.71,575.93,5187.64,En proceso,Sí
+OT-2024529,2024-03-15,Constructora Andina,Energía,Perforadora,Rueda,Mantenimiento Hidráulico,Carlos Mamani,10.1,5122.19,359.81,5482.0,Pendiente,No
+OT-2024458,2024-03-16,Aceros Arequipa,Energía,Cargador Frontal,Acumulador de Freno,Mantenimiento Hidráulico,José Quispe,8.0,4748.4,395.79,5144.19,Completado,Sí
+OT-2024565,2024-03-16,Aceros Arequipa,Minería,Volquete,Suspensión,Sistema Eléctrico,Luis Flores,4.1,1893.41,199.06,2092.47,Completado,No
+OT-2024065,2024-03-21,Constructora Andina,Industria,Perforadora,Estructura Metálica,Cromado Duro,Ana Torres,6.0,10290.33,321.5,10611.83,Completado,Sí
+OT-2024209,2024-03-21,Aceros Arequipa,Construcción,Grúa,Cucharón,Mantenimiento Hidráulico,José Quispe,10.6,2074.98,453.65,2528.63,Pendiente,No
+OT-2024157,2024-03-26,Buenaventura,Industria,Tractor,Estructura Metálica,Sistema Eléctrico,José Quispe,2.3,6767.08,91.2,6858.28,En proceso,No
+OT-2024462,2024-03-26,Southern Perú,Transporte,Retroexcavadora,Acumulador de Freno,Soldadura,Luis Flores,10.3,1909.18,389.56,2298.74,En proceso,No
+OT-2024013,2024-03-28,Consorcio Vial Sur,Construcción,Excavadora,Bastidor,Soldadura,Miguel Choque,11.3,3259.5,519.09,3778.59,Completado,No
+OT-2024519,2024-03-30,Consorcio Vial Sur,Minería,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,José Quispe,1.0,5222.48,55.86,5278.34,Pendiente,No
+OT-2024397,2024-04-01,Aceros Arequipa,Industria,Tractor,Arrancador,Mantenimiento Hidráulico,José Quispe,12.6,4875.8,725.26,5601.06,Completado,No
+OT-2024058,2024-04-01,Aceros Arequipa,Transporte,Volquete,Bastidor,Cromado Duro,José Quispe,14.1,2091.03,693.7,2784.73,Completado,No
+OT-2024468,2024-04-03,Constructora Andina,Industria,Retroexcavadora,Mando Final,Soldadura,Pedro Vilca,3.5,523.68,150.68,674.36,Completado,No
+OT-2024542,2024-04-05,Minera Chapi,Minería,Volquete,Acumulador de Freno,Soldadura,José Quispe,6.3,5459.49,374.84,5834.33,Completado,No
+OT-2024445,2024-04-05,Yura S.A.,Transporte,Volquete,Alternador,Mantenimiento Hidráulico,Miguel Choque,7.8,5457.34,437.64,5894.98,Completado,No
+OT-2024145,2024-04-05,Cerro Verde,Minería,Retroexcavadora,Acumulador de Freno,Mantenimiento Hidráulico,Luis Flores,11.7,2696.47,629.81,3326.28,Completado,No
+OT-2024575,2024-04-08,Buenaventura,Minería,Grúa,Cilindro Hidráulico,Soldadura,Luis Flores,4.6,4548.04,273.51,4821.55,Completado,No
+OT-2024356,2024-04-08,Aceros Arequipa,Minería,Perforadora,Alternador,Sistema Eléctrico,Miguel Choque,1.0,2575.04,39.95,2614.99,Completado,Sí
+OT-2024540,2024-04-08,Consorcio Vial Sur,Minería,Cargador Frontal,Rueda,Mantenimiento Hidráulico,Carlos Mamani,9.4,1738.03,351.94,2089.97,Completado,No
+OT-2024348,2024-04-08,Minera Chapi,Construcción,Perforadora,Mando Final,Mantenimiento Hidráulico,Luis Flores,11.1,5030.06,480.66,5510.72,En proceso,No
+OT-2024277,2024-04-08,Cerro Verde,Energía,Grúa,Arrancador,Sistema Eléctrico,José Quispe,1.2,4095.57,58.05,4153.62,Completado,No
+OT-2024297,2024-04-08,Transportes Rodríguez,Construcción,Volquete,Alternador,Soldadura,Ana Torres,3.8,5132.65,147.87,5280.52,Completado,No
+OT-2024125,2024-04-08,Transportes Rodríguez,Construcción,Tractor,Motor Eléctrico,Soldadura,Miguel Choque,2.8,4222.3,162.36,4384.66,Completado,No
+OT-2024015,2024-04-09,Transportes Rodríguez,Transporte,Tractor,Bastidor,Mantenimiento Hidráulico,Miguel Choque,11.2,1205.26,427.85,1633.11,Completado,No
+OT-2024482,2024-04-09,Yura S.A.,Minería,Tractor,Suspensión,Sistema Eléctrico,Pedro Vilca,2.2,6790.77,103.2,6893.97,Completado,No
+OT-2024421,2024-04-12,Cementos Yura,Minería,Volquete,Mando Final,Mantenimiento Hidráulico,Ana Torres,1.0,1236.84,50.96,1287.8,Pendiente,No
+OT-2024000,2024-04-12,Buenaventura,Minería,Retroexcavadora,Suspensión,Sistema Eléctrico,Pedro Vilca,4.1,3523.51,166.31,3689.82,Completado,No
+OT-2024291,2024-04-13,Cerro Verde,Minería,Grúa,Estructura Metálica,Soldadura,Miguel Choque,8.1,5252.64,286.64,5539.28,Completado,No
+OT-2024377,2024-04-13,Cerro Verde,Minería,Volquete,Acumulador de Freno,Mantenimiento Hidráulico,Luis Flores,8.6,1249.69,321.3,1570.99,Completado,No
+OT-2024071,2024-04-15,Transportes Rodríguez,Construcción,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Luis Flores,8.2,5488.53,402.98,5891.51,Completado,No
+OT-2024429,2024-04-15,Transportes Rodríguez,Energía,Excavadora,Cilindro Hidráulico,Soldadura,Ana Torres,4.0,2037.86,234.36,2272.22,En proceso,No
+OT-2024003,2024-04-16,Cementos Yura,Construcción,Excavadora,Alternador,Sistema Eléctrico,Carlos Mamani,7.0,6617.76,375.24,6993.0,Pendiente,No
+OT-2024585,2024-04-18,Cerro Verde,Energía,Grúa,Mando Final,Mantenimiento Hidráulico,Miguel Choque,7.9,612.04,400.1,1012.14,En proceso,Sí
+OT-2024294,2024-04-21,Cerro Verde,Energía,Perforadora,Alternador,Mantenimiento Hidráulico,Miguel Choque,7.3,6684.67,409.22,7093.89,Completado,No
+OT-2024206,2024-04-22,Yura S.A.,Construcción,Tractor,Acumulador de Freno,Soldadura,Pedro Vilca,5.4,3840.9,193.65,4034.55,Completado,No
+OT-2024198,2024-04-22,Southern Perú,Minería,Retroexcavadora,Bastidor,Sistema Eléctrico,José Quispe,2.1,398.49,107.41,505.9,En proceso,No
+OT-2024211,2024-04-22,Minera Chapi,Minería,Tractor,Alternador,Cromado Duro,Ana Torres,17.4,7122.97,969.38,8092.35,Completado,No
+OT-2024523,2024-04-24,Consorcio Vial Sur,Construcción,Retroexcavadora,Acumulador de Freno,Sistema Eléctrico,Luis Flores,5.1,2345.77,259.99,2605.76,Completado,No
+OT-2024358,2024-04-25,Minera Chapi,Minería,Grúa,Rueda,Soldadura,Miguel Choque,2.2,2023.74,78.3,2102.04,Completado,No
+OT-2024438,2024-04-26,Southern Perú,Transporte,Excavadora,Cilindro Hidráulico,Soldadura,Carlos Mamani,1.0,6613.38,53.82,6667.2,En proceso,No
+OT-2024447,2024-04-27,Cementos Yura,Energía,Perforadora,Suspensión,Soldadura,Miguel Choque,3.8,6201.65,221.81,6423.46,Completado,No
+OT-2024284,2024-04-29,Buenaventura,Energía,Cargador Frontal,Motor Eléctrico,Soldadura,Miguel Choque,3.3,4422.68,143.98,4566.66,Completado,No
+OT-2024433,2024-04-29,Cementos Yura,Minería,Retroexcavadora,Acumulador de Freno,Soldadura,Carlos Mamani,7.6,5124.73,317.41,5442.14,Pendiente,No
+OT-2024008,2024-05-01,Aceros Arequipa,Transporte,Excavadora,Estructura Metálica,Cromado Duro,Luis Flores,11.6,8479.01,692.31,9171.32,Completado,No
+OT-2024231,2024-05-02,Transportes Rodríguez,Minería,Volquete,Alternador,Soldadura,Ana Torres,8.9,6672.15,446.37,7118.52,Completado,No
+OT-2024241,2024-05-03,Cementos Yura,Energía,Tractor,Suspensión,Mantenimiento Hidráulico,Miguel Choque,14.3,4607.67,776.36,5384.03,En proceso,No
+OT-2024405,2024-05-04,Cementos Yura,Construcción,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Miguel Choque,3.8,232.66,196.69,429.35,Completado,No
+OT-2024439,2024-05-06,Buenaventura,Minería,Tractor,Estructura Metálica,Soldadura,Pedro Vilca,5.3,2920.89,235.16,3156.05,Completado,No
+OT-2024364,2024-05-07,Transportes Rodríguez,Minería,Grúa,Acumulador de Freno,Soldadura,Miguel Choque,4.0,470.45,179.19,649.64,En proceso,No
+OT-2024101,2024-05-08,Minera Chapi,Transporte,Tractor,Cucharón,Cromado Duro,Pedro Vilca,2.0,6142.34,82.71,6225.05,Pendiente,No
+OT-2024220,2024-05-09,Yura S.A.,Industria,Tractor,Mando Final,Mantenimiento Hidráulico,Ana Torres,12.3,4660.11,709.46,5369.57,Completado,No
+OT-2024017,2024-05-10,Buenaventura,Transporte,Excavadora,Motor Eléctrico,Soldadura,Carlos Mamani,4.2,2976.73,240.89,3217.62,Completado,No
+OT-2024044,2024-05-10,Constructora Andina,Minería,Perforadora,Mando Final,Mantenimiento Hidráulico,Luis Flores,3.6,398.01,140.05,538.06,Pendiente,No
+OT-2024280,2024-05-10,Buenaventura,Construcción,Retroexcavadora,Motor Eléctrico,Sistema Eléctrico,Miguel Choque,6.7,262.12,389.36,651.48,Completado,No
+OT-2024592,2024-05-12,Cerro Verde,Construcción,Cargador Frontal,Alternador,Mantenimiento Hidráulico,Luis Flores,3.9,3247.41,201.42,3448.83,Completado,No
+OT-2024310,2024-05-14,Constructora Andina,Energía,Grúa,Estructura Metálica,Cromado Duro,Luis Flores,12.8,513.16,502.86,1016.02,En proceso,No
+OT-2024117,2024-05-14,Yura S.A.,Construcción,Cargador Frontal,Mando Final,Mantenimiento Hidráulico,José Quispe,6.6,5129.72,240.65,5370.37,Pendiente,No
+OT-2024105,2024-05-18,Consorcio Vial Sur,Transporte,Grúa,Acumulador de Freno,Cromado Duro,Pedro Vilca,6.3,7889.62,234.75,8124.37,Completado,No
+OT-2024396,2024-05-22,Aceros Arequipa,Construcción,Tractor,Cucharón,Sistema Eléctrico,Ana Torres,1.0,7016.22,35.32,7051.54,En proceso,No
+OT-2024238,2024-05-23,Constructora Andina,Transporte,Cargador Frontal,Alternador,Sistema Eléctrico,Miguel Choque,3.1,7692.89,123.76,7816.65,Completado,No
+OT-2024573,2024-05-23,Buenaventura,Construcción,Tractor,Mando Final,Mantenimiento Hidráulico,Ana Torres,12.9,1695.04,604.54,2299.58,Pendiente,No
+OT-2024264,2024-05-23,Buenaventura,Minería,Grúa,Motor Eléctrico,Sistema Eléctrico,Ana Torres,4.8,7334.9,169.38,7504.28,En proceso,No
+OT-2024582,2024-05-23,Aceros Arequipa,Energía,Grúa,Rueda,Mantenimiento Hidráulico,Pedro Vilca,8.4,3876.31,500.03,4376.34,Completado,No
+OT-2024250,2024-05-26,Cementos Yura,Minería,Excavadora,Estructura Metálica,Sistema Eléctrico,Pedro Vilca,1.0,3516.78,35.94,3552.72,Pendiente,No
+OT-2024251,2024-05-27,Consorcio Vial Sur,Minería,Volquete,Estructura Metálica,Sistema Eléctrico,Miguel Choque,4.6,1764.37,184.41,1948.78,En proceso,Sí
+OT-2024406,2024-05-29,Aceros Arequipa,Minería,Grúa,Rueda,Mantenimiento Hidráulico,José Quispe,8.4,5883.52,360.23,6243.75,Completado,No
+OT-2024581,2024-05-30,Buenaventura,Minería,Tractor,Acumulador de Freno,Soldadura,Miguel Choque,5.4,5402.33,216.1,5618.43,Completado,No
+OT-2024259,2024-05-30,Transportes Rodríguez,Minería,Grúa,Mando Final,Cromado Duro,Luis Flores,10.4,783.92,495.25,1279.17,En proceso,No
+OT-2024282,2024-05-31,Buenaventura,Energía,Tractor,Cucharón,Mantenimiento Hidráulico,Luis Flores,12.3,4124.43,490.11,4614.54,Completado,No
+OT-2024298,2024-06-01,Cerro Verde,Construcción,Cargador Frontal,Cucharón,Sistema Eléctrico,José Quispe,4.8,6016.88,234.95,6251.83,Completado,No
+OT-2024459,2024-06-02,Yura S.A.,Construcción,Cargador Frontal,Mando Final,Soldadura,Carlos Mamani,4.6,2241.66,232.79,2474.45,En proceso,No
+OT-2024374,2024-06-03,Buenaventura,Construcción,Grúa,Acumulador de Freno,Soldadura,Ana Torres,6.8,6750.6,259.67,7010.27,En proceso,No
+OT-2024096,2024-06-05,Consorcio Vial Sur,Industria,Perforadora,Arrancador,Mantenimiento Hidráulico,José Quispe,12.2,270.44,606.47,876.91,Completado,No
+OT-2024343,2024-06-06,Minera Chapi,Minería,Volquete,Bastidor,Soldadura,Ana Torres,3.2,5012.16,181.08,5193.24,Pendiente,No
+OT-2024274,2024-06-08,Consorcio Vial Sur,Industria,Retroexcavadora,Bastidor,Soldadura,Pedro Vilca,1.0,2797.67,57.12,2854.79,Completado,No
+OT-2024494,2024-06-08,Yura S.A.,Minería,Cargador Frontal,Acumulador de Freno,Mantenimiento Hidráulico,Miguel Choque,5.8,3333.24,275.9,3609.14,En proceso,No
+OT-2024154,2024-06-08,Cementos Yura,Industria,Retroexcavadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,5.1,891.08,206.63,1097.71,En proceso,No
+OT-2024304,2024-06-09,Aceros Arequipa,Minería,Grúa,Bastidor,Mantenimiento Hidráulico,José Quispe,7.8,6313.16,383.41,6696.57,Completado,No
+OT-2024361,2024-06-09,Constructora Andina,Minería,Retroexcavadora,Motor Eléctrico,Soldadura,Miguel Choque,4.9,6692.44,270.19,6962.63,En proceso,No
+OT-2024026,2024-06-09,Consorcio Vial Sur,Minería,Volquete,Cilindro Hidráulico,Soldadura,Pedro Vilca,3.9,4962.84,164.64,5127.48,Completado,No
+OT-2024077,2024-06-10,Yura S.A.,Minería,Perforadora,Motor Eléctrico,Soldadura,José Quispe,3.5,3192.18,128.24,3320.42,Completado,No
+OT-2024593,2024-06-11,Cementos Yura,Construcción,Perforadora,Arrancador,Mantenimiento Hidráulico,José Quispe,1.0,1662.71,35.26,1697.97,En proceso,No
+OT-2024301,2024-06-11,Aceros Arequipa,Transporte,Grúa,Rueda,Soldadura,Pedro Vilca,6.3,2259.23,285.9,2545.13,Completado,No
+OT-2024048,2024-06-15,Transportes Rodríguez,Energía,Excavadora,Motor Eléctrico,Soldadura,Pedro Vilca,8.1,3601.79,343.13,3944.92,Completado,No
+OT-2024507,2024-06-16,Cerro Verde,Construcción,Cargador Frontal,Estructura Metálica,Soldadura,Luis Flores,6.7,7005.66,275.39,7281.05,Completado,No
+OT-2024150,2024-06-19,Consorcio Vial Sur,Transporte,Grúa,Mando Final,Soldadura,José Quispe,6.6,3868.49,313.84,4182.33,Pendiente,No
+OT-2024341,2024-06-20,Yura S.A.,Construcción,Cargador Frontal,Alternador,Cromado Duro,Miguel Choque,3.9,8584.75,191.74,8776.49,Completado,No
+OT-2024380,2024-06-24,Yura S.A.,Energía,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,Carlos Mamani,7.7,883.67,282.17,1165.84,Completado,No
+OT-2024560,2024-06-25,Consorcio Vial Sur,Energía,Volquete,Rueda,Sistema Eléctrico,Miguel Choque,1.0,7705.26,59.11,7764.37,Pendiente,No
+OT-2024483,2024-06-28,Aceros Arequipa,Construcción,Retroexcavadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Luis Flores,3.4,5627.2,199.26,5826.46,Pendiente,No
+OT-2024354,2024-06-29,Southern Perú,Transporte,Perforadora,Acumulador de Freno,Soldadura,Carlos Mamani,6.7,2736.65,241.08,2977.73,Completado,No
+OT-2024230,2024-07-02,Aceros Arequipa,Transporte,Perforadora,Acumulador de Freno,Mantenimiento Hidráulico,Luis Flores,8.4,2915.15,372.07,3287.22,Completado,Sí
+OT-2024588,2024-07-04,Yura S.A.,Energía,Cargador Frontal,Arrancador,Mantenimiento Hidráulico,José Quispe,8.8,3339.71,510.41,3850.12,Completado,No
+OT-2024242,2024-07-05,Transportes Rodríguez,Construcción,Excavadora,Mando Final,Mantenimiento Hidráulico,Miguel Choque,3.0,2709.03,168.6,2877.63,Pendiente,No
+OT-2024092,2024-07-06,Cementos Yura,Construcción,Retroexcavadora,Rueda,Soldadura,Miguel Choque,7.2,4137.79,349.79,4487.58,Completado,No
+OT-2024453,2024-07-07,Yura S.A.,Minería,Cargador Frontal,Mando Final,Soldadura,Miguel Choque,6.4,4505.1,262.69,4767.79,Completado,No
+OT-2024173,2024-07-08,Cementos Yura,Construcción,Cargador Frontal,Estructura Metálica,Mantenimiento Hidráulico,Luis Flores,18.4,6124.74,1098.51,7223.25,En proceso,No
+OT-2024404,2024-07-08,Aceros Arequipa,Industria,Cargador Frontal,Arrancador,Mantenimiento Hidráulico,Pedro Vilca,8.2,2117.61,360.42,2478.03,En proceso,No
+OT-2024545,2024-07-08,Consorcio Vial Sur,Transporte,Excavadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Miguel Choque,7.7,2926.28,330.28,3256.56,Completado,No
+OT-2024038,2024-07-08,Consorcio Vial Sur,Energía,Cargador Frontal,Alternador,Cromado Duro,Luis Flores,24.7,4305.89,898.32,5204.21,En proceso,No
+OT-2024359,2024-07-09,Cerro Verde,Energía,Volquete,Motor Eléctrico,Soldadura,Pedro Vilca,5.9,594.86,212.31,807.17,Completado,No
+OT-2024024,2024-07-10,Consorcio Vial Sur,Minería,Grúa,Cilindro Hidráulico,Soldadura,Pedro Vilca,5.7,1073.9,256.19,1330.09,Completado,No
+OT-2024337,2024-07-10,Aceros Arequipa,Minería,Volquete,Cilindro Hidráulico,Sistema Eléctrico,Luis Flores,2.0,6080.17,98.89,6179.06,En proceso,No
+OT-2024538,2024-07-10,Consorcio Vial Sur,Construcción,Retroexcavadora,Acumulador de Freno,Mantenimiento Hidráulico,Miguel Choque,7.1,7588.94,285.0,7873.94,Pendiente,No
+OT-2024311,2024-07-13,Transportes Rodríguez,Transporte,Grúa,Motor Eléctrico,Soldadura,Luis Flores,4.0,3334.72,155.37,3490.09,En proceso,No
+OT-2024525,2024-07-14,Buenaventura,Minería,Cargador Frontal,Rueda,Sistema Eléctrico,Miguel Choque,1.9,4789.25,76.6,4865.85,Pendiente,No
+OT-2024422,2024-07-14,Minera Chapi,Minería,Tractor,Cucharón,Mantenimiento Hidráulico,Ana Torres,6.4,2981.26,369.88,3351.14,Pendiente,Sí
+OT-2024236,2024-07-16,Transportes Rodríguez,Industria,Grúa,Rueda,Cromado Duro,Pedro Vilca,4.0,5336.12,207.96,5544.08,Completado,Sí
+OT-2024240,2024-07-19,Buenaventura,Construcción,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Luis Flores,4.7,7632.6,278.13,7910.73,Completado,No
+OT-2024118,2024-07-19,Southern Perú,Construcción,Excavadora,Bastidor,Sistema Eléctrico,Carlos Mamani,5.1,2338.45,188.63,2527.08,Completado,No
+OT-2024078,2024-07-20,Consorcio Vial Sur,Energía,Perforadora,Acumulador de Freno,Cromado Duro,Pedro Vilca,4.8,1919.15,263.38,2182.53,Completado,No
+OT-2024229,2024-07-21,Transportes Rodríguez,Minería,Volquete,Alternador,Mantenimiento Hidráulico,José Quispe,6.9,1914.48,264.19,2178.67,Pendiente,No
+OT-2024470,2024-07-22,Yura S.A.,Industria,Excavadora,Motor Eléctrico,Mantenimiento Hidráulico,José Quispe,10.2,5751.87,586.08,6337.95,Pendiente,No
+OT-2024064,2024-07-24,Aceros Arequipa,Minería,Grúa,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,1.0,5501.25,40.46,5541.71,Completado,No
+OT-2024137,2024-07-25,Southern Perú,Energía,Cargador Frontal,Bastidor,Soldadura,Ana Torres,1.9,7554.08,104.92,7659.0,En proceso,Sí
+OT-2024279,2024-07-26,Buenaventura,Industria,Cargador Frontal,Cucharón,Mantenimiento Hidráulico,Luis Flores,14.5,1444.04,565.67,2009.71,Pendiente,Sí
+OT-2024010,2024-08-02,Cementos Yura,Minería,Volquete,Acumulador de Freno,Cromado Duro,Pedro Vilca,19.6,9839.92,1102.33,10942.25,Completado,No
+OT-2024594,2024-08-02,Transportes Rodríguez,Minería,Excavadora,Rueda,Soldadura,Luis Flores,8.8,6723.07,355.4,7078.47,Completado,No
+OT-2024091,2024-08-04,Southern Perú,Energía,Perforadora,Motor Eléctrico,Mantenimiento Hidráulico,Ana Torres,7.6,3463.52,304.68,3768.2,En proceso,No
+OT-2024551,2024-08-04,Buenaventura,Energía,Tractor,Cilindro Hidráulico,Cromado Duro,Miguel Choque,6.7,5071.77,371.19,5442.96,Completado,No
+OT-2024133,2024-08-05,Transportes Rodríguez,Industria,Perforadora,Rueda,Mantenimiento Hidráulico,Pedro Vilca,12.8,4298.94,602.12,4901.06,Completado,No
+OT-2024471,2024-08-05,Constructora Andina,Minería,Tractor,Suspensión,Soldadura,Miguel Choque,2.9,5062.36,145.18,5207.54,Completado,No
+OT-2024342,2024-08-07,Transportes Rodríguez,Minería,Excavadora,Arrancador,Mantenimiento Hidráulico,José Quispe,11.3,970.15,416.87,1387.02,Completado,No
+OT-2024465,2024-08-07,Consorcio Vial Sur,Construcción,Volquete,Rueda,Sistema Eléctrico,Miguel Choque,4.8,4881.96,255.75,5137.71,Pendiente,No
+OT-2024214,2024-08-07,Constructora Andina,Minería,Tractor,Rueda,Mantenimiento Hidráulico,Luis Flores,13.8,5715.27,500.33,6215.6,Completado,Sí
+OT-2024484,2024-08-10,Cementos Yura,Minería,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,Carlos Mamani,10.5,3518.94,515.92,4034.86,En proceso,Sí
+OT-2024590,2024-08-10,Minera Chapi,Construcción,Tractor,Suspensión,Mantenimiento Hidráulico,José Quispe,2.5,1381.0,137.4,1518.4,En proceso,No
+OT-2024174,2024-08-12,Consorcio Vial Sur,Industria,Volquete,Rueda,Mantenimiento Hidráulico,José Quispe,10.2,6642.63,382.66,7025.29,Completado,No
+OT-2024188,2024-08-12,Transportes Rodríguez,Energía,Excavadora,Bastidor,Mantenimiento Hidráulico,Luis Flores,2.4,4964.08,100.84,5064.92,En proceso,No
+OT-2024216,2024-08-12,Transportes Rodríguez,Minería,Cargador Frontal,Rueda,Sistema Eléctrico,Miguel Choque,5.2,6962.08,241.01,7203.09,En proceso,No
+OT-2024328,2024-08-13,Cerro Verde,Minería,Retroexcavadora,Suspensión,Sistema Eléctrico,Carlos Mamani,7.8,7494.34,346.28,7840.62,Completado,No
+OT-2024293,2024-08-14,Minera Chapi,Construcción,Volquete,Acumulador de Freno,Soldadura,Luis Flores,8.0,746.03,425.85,1171.88,Completado,No
+OT-2024322,2024-08-17,Cementos Yura,Construcción,Grúa,Estructura Metálica,Sistema Eléctrico,Miguel Choque,3.5,7621.27,137.86,7759.13,En proceso,No
+OT-2024148,2024-08-18,Minera Chapi,Transporte,Cargador Frontal,Alternador,Mantenimiento Hidráulico,Ana Torres,13.2,1791.48,645.18,2436.66,Completado,No
+OT-2024172,2024-08-18,Aceros Arequipa,Industria,Tractor,Alternador,Soldadura,Miguel Choque,8.0,5810.96,458.05,6269.01,Completado,Sí
+OT-2024114,2024-08-18,Constructora Andina,Energía,Excavadora,Motor Eléctrico,Sistema Eléctrico,Luis Flores,2.6,4965.65,117.72,5083.37,Pendiente,No
+OT-2024564,2024-08-20,Southern Perú,Industria,Cargador Frontal,Acumulador de Freno,Soldadura,Luis Flores,4.8,4257.81,172.45,4430.26,En proceso,No
+OT-2024276,2024-08-20,Aceros Arequipa,Construcción,Cargador Frontal,Arrancador,Soldadura,Luis Flores,3.0,7183.7,154.98,7338.68,En proceso,No
+OT-2024196,2024-08-20,Cerro Verde,Construcción,Volquete,Alternador,Mantenimiento Hidráulico,Luis Flores,6.8,805.39,330.23,1135.62,Completado,No
+OT-2024189,2024-08-21,Buenaventura,Minería,Grúa,Alternador,Mantenimiento Hidráulico,Carlos Mamani,7.7,2843.11,424.0,3267.11,Pendiente,No
+OT-2024595,2024-08-22,Cerro Verde,Industria,Cargador Frontal,Cilindro Hidráulico,Mantenimiento Hidráulico,José Quispe,12.5,6935.74,544.05,7479.79,Completado,No
+OT-2024451,2024-08-24,Yura S.A.,Transporte,Perforadora,Rueda,Soldadura,Carlos Mamani,6.0,5037.88,281.66,5319.54,Completado,No
+OT-2024143,2024-08-28,Transportes Rodríguez,Minería,Tractor,Suspensión,Mantenimiento Hidráulico,Miguel Choque,3.7,3570.2,170.14,3740.34,Completado,No
+OT-2024054,2024-08-29,Cerro Verde,Transporte,Cargador Frontal,Suspensión,Soldadura,Carlos Mamani,5.7,1463.71,319.42,1783.13,Completado,No
+OT-2024156,2024-08-30,Yura S.A.,Industria,Cargador Frontal,Mando Final,Cromado Duro,Pedro Vilca,14.6,6200.11,725.06,6925.17,Completado,No
+OT-2024042,2024-08-31,Yura S.A.,Minería,Grúa,Mando Final,Sistema Eléctrico,José Quispe,3.1,5074.81,137.77,5212.58,Completado,No
+OT-2024379,2024-09-02,Aceros Arequipa,Construcción,Excavadora,Bastidor,Soldadura,Carlos Mamani,8.4,6535.61,374.65,6910.26,En proceso,No
+OT-2024227,2024-09-03,Cerro Verde,Minería,Tractor,Motor Eléctrico,Mantenimiento Hidráulico,Luis Flores,15.9,5566.75,652.65,6219.4,Completado,No
+OT-2024457,2024-09-03,Southern Perú,Minería,Tractor,Suspensión,Mantenimiento Hidráulico,Ana Torres,12.3,3661.42,517.33,4178.75,Completado,No
+OT-2024084,2024-09-08,Southern Perú,Minería,Grúa,Estructura Metálica,Soldadura,Pedro Vilca,5.9,509.03,277.37,786.4,En proceso,No
+OT-2024360,2024-09-09,Cerro Verde,Minería,Volquete,Arrancador,Sistema Eléctrico,Pedro Vilca,3.8,4789.15,170.78,4959.93,En proceso,No
+OT-2024030,2024-09-09,Constructora Andina,Construcción,Grúa,Mando Final,Sistema Eléctrico,Ana Torres,4.6,2998.88,261.88,3260.76,Completado,No
+OT-2024515,2024-09-09,Consorcio Vial Sur,Minería,Tractor,Arrancador,Mantenimiento Hidráulico,Luis Flores,6.1,2012.75,310.43,2323.18,Completado,No
+OT-2024478,2024-09-10,Buenaventura,Transporte,Retroexcavadora,Mando Final,Cromado Duro,José Quispe,12.9,5498.6,543.28,6041.88,Completado,No
+OT-2024292,2024-09-10,Transportes Rodríguez,Construcción,Retroexcavadora,Arrancador,Sistema Eléctrico,José Quispe,4.3,7857.32,198.93,8056.25,Pendiente,No
+OT-2024270,2024-09-10,Cementos Yura,Energía,Cargador Frontal,Estructura Metálica,Soldadura,Pedro Vilca,6.6,4427.52,386.04,4813.56,Completado,No
+OT-2024362,2024-09-12,Consorcio Vial Sur,Construcción,Retroexcavadora,Mando Final,Mantenimiento Hidráulico,Miguel Choque,2.2,2382.02,95.26,2477.28,En proceso,No
+OT-2024492,2024-09-14,Consorcio Vial Sur,Energía,Excavadora,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,15.1,3659.79,882.93,4542.72,Completado,No
+OT-2024180,2024-09-15,Constructora Andina,Transporte,Retroexcavadora,Acumulador de Freno,Sistema Eléctrico,Carlos Mamani,2.1,6669.28,88.28,6757.56,Completado,No
+OT-2024263,2024-09-19,Consorcio Vial Sur,Transporte,Perforadora,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,12.5,1802.13,556.7,2358.83,Completado,No
+OT-2024416,2024-09-20,Southern Perú,Energía,Volquete,Rueda,Sistema Eléctrico,Carlos Mamani,2.2,2178.18,112.31,2290.49,Completado,No
+OT-2024566,2024-09-21,Minera Chapi,Minería,Excavadora,Arrancador,Mantenimiento Hidráulico,Luis Flores,17.6,5232.17,623.47,5855.64,Completado,No
+OT-2024504,2024-09-24,Aceros Arequipa,Construcción,Excavadora,Mando Final,Cromado Duro,Miguel Choque,12.0,6376.91,488.18,6865.09,Completado,No
+OT-2024202,2024-09-24,Yura S.A.,Minería,Retroexcavadora,Mando Final,Cromado Duro,José Quispe,25.2,1966.94,1037.55,3004.49,Completado,No
+OT-2024426,2024-09-25,Yura S.A.,Minería,Tractor,Acumulador de Freno,Soldadura,Luis Flores,4.5,6346.17,259.12,6605.29,Completado,No
+OT-2024079,2024-09-26,Aceros Arequipa,Industria,Retroexcavadora,Arrancador,Mantenimiento Hidráulico,Miguel Choque,1.0,7616.74,38.78,7655.52,Completado,No
+OT-2024002,2024-09-27,Yura S.A.,Minería,Cargador Frontal,Motor Eléctrico,Mantenimiento Hidráulico,Miguel Choque,9.2,3508.93,530.46,4039.39,En proceso,No
+OT-2024080,2024-09-27,Southern Perú,Transporte,Tractor,Rueda,Mantenimiento Hidráulico,Miguel Choque,7.8,7173.97,317.84,7491.81,Completado,No
+OT-2024452,2024-09-28,Consorcio Vial Sur,Transporte,Perforadora,Motor Eléctrico,Soldadura,José Quispe,6.8,5633.18,395.09,6028.27,Completado,No
+OT-2024552,2024-09-29,Constructora Andina,Energía,Perforadora,Alternador,Mantenimiento Hidráulico,Luis Flores,6.8,5221.01,285.11,5506.12,En proceso,No
+OT-2024049,2024-09-30,Cementos Yura,Construcción,Retroexcavadora,Alternador,Sistema Eléctrico,Carlos Mamani,1.0,6438.87,45.63,6484.5,Completado,Sí
+OT-2024307,2024-10-03,Cerro Verde,Transporte,Excavadora,Motor Eléctrico,Mantenimiento Hidráulico,Miguel Choque,5.6,4315.88,225.63,4541.51,Completado,No
+OT-2024329,2024-10-03,Minera Chapi,Transporte,Grúa,Cilindro Hidráulico,Soldadura,Carlos Mamani,5.3,7302.72,253.06,7555.78,En proceso,No
+OT-2024534,2024-10-03,Consorcio Vial Sur,Transporte,Excavadora,Arrancador,Mantenimiento Hidráulico,Carlos Mamani,12.3,5448.09,583.4,6031.49,Pendiente,No
+OT-2024025,2024-10-03,Aceros Arequipa,Minería,Grúa,Acumulador de Freno,Sistema Eléctrico,Luis Flores,3.9,5803.97,188.67,5992.64,En proceso,No
+OT-2024550,2024-10-05,Constructora Andina,Minería,Excavadora,Rueda,Sistema Eléctrico,Ana Torres,2.4,3968.45,87.79,4056.24,Completado,No
+OT-2024350,2024-10-06,Consorcio Vial Sur,Construcción,Tractor,Acumulador de Freno,Mantenimiento Hidráulico,Ana Torres,3.7,5471.42,190.38,5661.8,Completado,Sí
+OT-2024234,2024-10-06,Southern Perú,Industria,Grúa,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,10.0,3227.69,518.53,3746.22,En proceso,No
+OT-2024177,2024-10-09,Southern Perú,Energía,Volquete,Rueda,Sistema Eléctrico,Luis Flores,5.0,3384.79,269.91,3654.7,Completado,No
+OT-2024326,2024-10-09,Southern Perú,Construcción,Retroexcavadora,Cilindro Hidráulico,Mantenimiento Hidráulico,José Quispe,9.2,5093.17,494.56,5587.73,Completado,No
+OT-2024331,2024-10-10,Buenaventura,Transporte,Retroexcavadora,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,10.8,6056.0,411.88,6467.88,Completado,No
+OT-2024510,2024-10-11,Minera Chapi,Construcción,Cargador Frontal,Estructura Metálica,Soldadura,José Quispe,5.7,2084.49,296.58,2381.07,Pendiente,No
+OT-2024464,2024-10-11,Minera Chapi,Construcción,Tractor,Rueda,Soldadura,Miguel Choque,1.0,619.5,35.55,655.05,En proceso,No
+OT-2024371,2024-10-14,Constructora Andina,Transporte,Cargador Frontal,Suspensión,Sistema Eléctrico,Pedro Vilca,5.8,1964.92,303.39,2268.31,Pendiente,No
+OT-2024111,2024-10-15,Yura S.A.,Construcción,Cargador Frontal,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,7.4,5015.34,355.77,5371.11,Completado,No
+OT-2024477,2024-10-15,Cerro Verde,Minería,Retroexcavadora,Suspensión,Mantenimiento Hidráulico,José Quispe,8.8,5010.36,497.38,5507.74,En proceso,No
+OT-2024233,2024-10-20,Cementos Yura,Transporte,Cargador Frontal,Arrancador,Sistema Eléctrico,Ana Torres,3.9,1798.85,207.25,2006.1,Completado,No
+OT-2024086,2024-10-22,Constructora Andina,Transporte,Volquete,Arrancador,Mantenimiento Hidráulico,Pedro Vilca,10.5,6607.24,378.31,6985.55,Completado,No
+OT-2024261,2024-10-24,Constructora Andina,Minería,Excavadora,Suspensión,Sistema Eléctrico,Luis Flores,4.5,7858.86,228.15,8087.01,Pendiente,No
+OT-2024353,2024-10-28,Consorcio Vial Sur,Energía,Grúa,Motor Eléctrico,Soldadura,José Quispe,8.6,262.86,503.78,766.64,Completado,No
+OT-2024514,2024-10-28,Consorcio Vial Sur,Transporte,Retroexcavadora,Arrancador,Mantenimiento Hidráulico,Pedro Vilca,7.2,2281.0,343.07,2624.07,Completado,No
+OT-2024269,2024-10-30,Transportes Rodríguez,Transporte,Grúa,Alternador,Cromado Duro,Ana Torres,19.7,7728.47,1124.37,8852.84,En proceso,No
+OT-2024410,2024-10-31,Yura S.A.,Construcción,Grúa,Bastidor,Mantenimiento Hidráulico,Miguel Choque,13.1,3341.37,628.67,3970.04,Pendiente,No
+OT-2024019,2024-11-04,Constructora Andina,Minería,Volquete,Cucharón,Sistema Eléctrico,Pedro Vilca,4.1,4343.87,217.35,4561.22,Completado,Sí
+OT-2024407,2024-11-09,Cerro Verde,Transporte,Perforadora,Arrancador,Soldadura,Luis Flores,6.3,1076.44,272.79,1349.23,Completado,No
+OT-2024028,2024-11-09,Cerro Verde,Minería,Volquete,Alternador,Mantenimiento Hidráulico,José Quispe,17.6,6395.46,662.95,7058.41,En proceso,No
+OT-2024052,2024-11-11,Southern Perú,Minería,Tractor,Mando Final,Cromado Duro,José Quispe,2.8,5521.83,101.29,5623.12,Pendiente,No
+OT-2024186,2024-11-13,Transportes Rodríguez,Minería,Cargador Frontal,Arrancador,Sistema Eléctrico,Carlos Mamani,4.2,1012.95,187.37,1200.32,Completado,No
+OT-2024391,2024-11-16,Buenaventura,Minería,Perforadora,Rueda,Mantenimiento Hidráulico,Carlos Mamani,8.5,1468.75,453.55,1922.3,Pendiente,No
+OT-2024368,2024-11-18,Constructora Andina,Energía,Perforadora,Suspensión,Soldadura,Miguel Choque,6.8,6834.48,272.26,7106.74,Completado,No
+OT-2024363,2024-11-18,Consorcio Vial Sur,Construcción,Excavadora,Estructura Metálica,Mantenimiento Hidráulico,Miguel Choque,11.4,4661.57,628.55,5290.12,Completado,No
+OT-2024488,2024-11-20,Minera Chapi,Minería,Grúa,Acumulador de Freno,Sistema Eléctrico,Ana Torres,6.1,1609.13,358.02,1967.15,Completado,No
+OT-2024243,2024-11-21,Cerro Verde,Industria,Excavadora,Cucharón,Mantenimiento Hidráulico,Carlos Mamani,10.4,7230.79,403.99,7634.78,Completado,No
+OT-2024011,2024-11-26,Buenaventura,Construcción,Grúa,Estructura Metálica,Soldadura,Luis Flores,5.8,5021.4,254.93,5276.33,Completado,No
+OT-2024167,2024-11-26,Consorcio Vial Sur,Energía,Perforadora,Acumulador de Freno,Mantenimiento Hidráulico,Carlos Mamani,7.0,3818.66,404.11,4222.77,Completado,No
+OT-2024491,2024-12-01,Constructora Andina,Minería,Volquete,Rueda,Soldadura,Carlos Mamani,3.4,2200.02,198.39,2398.41,En proceso,No
+OT-2024299,2024-12-03,Southern Perú,Construcción,Tractor,Suspensión,Mantenimiento Hidráulico,José Quispe,10.6,5600.4,440.98,6041.38,Pendiente,No
+OT-2024089,2024-12-03,Minera Chapi,Construcción,Retroexcavadora,Bastidor,Mantenimiento Hidráulico,Ana Torres,15.9,1444.45,903.03,2347.48,Pendiente,No
+OT-2024256,2024-12-03,Consorcio Vial Sur,Industria,Volquete,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,7.2,604.78,277.59,882.37,En proceso,No
+OT-2024166,2024-12-05,Cementos Yura,Construcción,Tractor,Motor Eléctrico,Soldadura,Carlos Mamani,5.8,7060.74,329.23,7389.97,Completado,No
+OT-2024057,2024-12-05,Transportes Rodríguez,Industria,Cargador Frontal,Alternador,Sistema Eléctrico,Miguel Choque,1.0,6491.18,51.47,6542.65,Completado,No
+OT-2024474,2024-12-06,Transportes Rodríguez,Transporte,Grúa,Cucharón,Mantenimiento Hidráulico,Carlos Mamani,5.6,2731.95,290.19,3022.14,Completado,No
+OT-2024409,2024-12-07,Consorcio Vial Sur,Energía,Excavadora,Suspensión,Sistema Eléctrico,José Quispe,4.1,3476.09,202.78,3678.87,Completado,No
+OT-2024556,2024-12-07,Cerro Verde,Industria,Grúa,Rueda,Mantenimiento Hidráulico,Pedro Vilca,9.0,4157.64,414.34,4571.98,Completado,No
+OT-2024100,2024-12-09,Constructora Andina,Transporte,Grúa,Rueda,Cromado Duro,Carlos Mamani,12.4,681.55,479.99,1161.54,Completado,No
+OT-2024020,2024-12-09,Aceros Arequipa,Minería,Perforadora,Alternador,Soldadura,Carlos Mamani,4.7,4354.41,192.99,4547.4,Completado,No
+OT-2024055,2024-12-11,Cementos Yura,Minería,Volquete,Rueda,Mantenimiento Hidráulico,Ana Torres,1.1,3419.79,57.89,3477.68,En proceso,No
+OT-2024248,2024-12-11,Cementos Yura,Construcción,Cargador Frontal,Mando Final,Soldadura,Ana Torres,6.0,1651.86,259.73,1911.59,Completado,No
+OT-2024436,2024-12-11,Aceros Arequipa,Transporte,Grúa,Estructura Metálica,Sistema Eléctrico,Carlos Mamani,2.0,3772.62,82.83,3855.45,Completado,No
+OT-2024265,2024-12-11,Southern Perú,Construcción,Volquete,Mando Final,Soldadura,José Quispe,4.6,5955.5,242.02,6197.52,Completado,No
+OT-2024170,2024-12-13,Transportes Rodríguez,Industria,Volquete,Alternador,Soldadura,Miguel Choque,4.8,5914.55,266.45,6181.0,Completado,No
+OT-2024351,2024-12-14,Constructora Andina,Industria,Perforadora,Alternador,Mantenimiento Hidráulico,Ana Torres,1.0,7058.78,48.93,7107.71,Completado,No
+OT-2024245,2024-12-14,Consorcio Vial Sur,Minería,Cargador Frontal,Arrancador,Soldadura,Luis Flores,5.4,6808.72,310.8,7119.52,Completado,No
+OT-2024423,2024-12-15,Cerro Verde,Minería,Perforadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Ana Torres,2.5,6298.75,135.37,6434.12,Completado,No
+OT-2024398,2024-12-19,Transportes Rodríguez,Construcción,Perforadora,Alternador,Sistema Eléctrico,Ana Torres,1.0,6438.31,48.87,6487.18,Completado,No
+OT-2024479,2024-12-22,Constructora Andina,Minería,Retroexcavadora,Motor Eléctrico,Mantenimiento Hidráulico,Pedro Vilca,12.2,2680.71,709.02,3389.73,Pendiente,Sí
+OT-2024181,2024-12-24,Yura S.A.,Minería,Grúa,Alternador,Mantenimiento Hidráulico,Miguel Choque,12.3,3856.39,523.14,4379.53,Completado,No
+OT-2024323,2024-12-30,Transportes Rodríguez,Energía,Retroexcavadora,Mando Final,Soldadura,Miguel Choque,4.3,3102.95,221.63,3324.58,Completado,No
+OT-2024059,2025-01-01,Cerro Verde,Construcción,Perforadora,Cilindro Hidráulico,Cromado Duro,Pedro Vilca,13.0,5068.53,735.16,5803.69,Completado,No
+OT-2024572,2025-01-01,Yura S.A.,Minería,Cargador Frontal,Cucharón,Sistema Eléctrico,Ana Torres,3.1,3459.5,111.95,3571.45,Completado,No
+OT-2024547,2025-01-03,Cerro Verde,Energía,Grúa,Suspensión,Mantenimiento Hidráulico,Ana Torres,1.6,5370.31,94.62,5464.93,Completado,No
+OT-2024427,2025-01-04,Consorcio Vial Sur,Minería,Cargador Frontal,Cucharón,Soldadura,Pedro Vilca,5.1,7424.4,289.59,7713.99,Pendiente,No
+OT-2024014,2025-01-07,Aceros Arequipa,Minería,Grúa,Arrancador,Sistema Eléctrico,Luis Flores,4.0,2214.31,185.91,2400.22,Completado,No
+OT-2024346,2025-01-07,Constructora Andina,Energía,Grúa,Arrancador,Mantenimiento Hidráulico,Ana Torres,6.2,7320.56,304.68,7625.24,Completado,No
+OT-2024192,2025-01-08,Consorcio Vial Sur,Construcción,Volquete,Bastidor,Soldadura,Miguel Choque,5.4,5555.4,204.46,5759.86,Completado,No
+OT-2024318,2025-01-09,Constructora Andina,Transporte,Tractor,Cucharón,Sistema Eléctrico,Carlos Mamani,5.7,1416.65,267.69,1684.34,Completado,No
+OT-2024531,2025-01-10,Southern Perú,Construcción,Excavadora,Arrancador,Mantenimiento Hidráulico,Ana Torres,6.7,582.24,330.44,912.68,Completado,No
+OT-2024176,2025-01-11,Consorcio Vial Sur,Energía,Perforadora,Estructura Metálica,Soldadura,Ana Torres,4.0,6728.92,167.93,6896.85,Completado,No
+OT-2024112,2025-01-13,Constructora Andina,Energía,Retroexcavadora,Motor Eléctrico,Mantenimiento Hidráulico,Miguel Choque,3.8,6903.44,208.98,7112.42,En proceso,No
+OT-2024499,2025-01-14,Consorcio Vial Sur,Construcción,Excavadora,Suspensión,Soldadura,Ana Torres,2.8,7429.88,165.34,7595.22,Completado,No
+OT-2024093,2025-01-14,Buenaventura,Industria,Tractor,Mando Final,Soldadura,Ana Torres,6.9,6385.06,354.49,6739.55,Completado,No
+OT-2024569,2025-01-18,Transportes Rodríguez,Energía,Retroexcavadora,Acumulador de Freno,Soldadura,Ana Torres,9.0,768.61,456.04,1224.65,Completado,No
+OT-2024175,2025-01-19,Yura S.A.,Minería,Retroexcavadora,Rueda,Soldadura,José Quispe,2.9,5043.24,127.05,5170.29,Completado,No
+OT-2024217,2025-01-19,Minera Chapi,Transporte,Tractor,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,4.6,2461.77,225.78,2687.55,Completado,No
+OT-2024023,2025-01-20,Consorcio Vial Sur,Energía,Grúa,Bastidor,Mantenimiento Hidráulico,Carlos Mamani,15.9,993.9,617.26,1611.16,Completado,No
+OT-2024204,2025-01-20,Transportes Rodríguez,Construcción,Cargador Frontal,Mando Final,Mantenimiento Hidráulico,Ana Torres,5.9,6302.63,314.85,6617.48,Pendiente,No
+OT-2024376,2025-01-20,Minera Chapi,Minería,Grúa,Cilindro Hidráulico,Mantenimiento Hidráulico,Ana Torres,7.1,7409.44,306.33,7715.77,Pendiente,No
+OT-2024205,2025-01-21,Aceros Arequipa,Construcción,Grúa,Estructura Metálica,Mantenimiento Hidráulico,Ana Torres,10.3,6849.95,543.55,7393.5,Completado,No
+OT-2024050,2025-01-22,Cementos Yura,Minería,Excavadora,Suspensión,Soldadura,Carlos Mamani,7.8,6616.15,376.28,6992.43,Completado,No
+OT-2024067,2025-01-22,Cerro Verde,Construcción,Excavadora,Bastidor,Cromado Duro,Luis Flores,9.3,10348.37,365.93,10714.3,Completado,No
+OT-2024069,2025-01-24,Cerro Verde,Construcción,Perforadora,Estructura Metálica,Sistema Eléctrico,Luis Flores,1.0,476.29,43.23,519.52,Pendiente,No
+OT-2024108,2025-01-26,Cerro Verde,Construcción,Retroexcavadora,Motor Eléctrico,Soldadura,Carlos Mamani,7.7,3815.25,342.61,4157.86,En proceso,No
+OT-2024309,2025-01-26,Constructora Andina,Transporte,Grúa,Rueda,Soldadura,Carlos Mamani,4.1,6032.8,226.55,6259.35,Pendiente,No
+OT-2024440,2025-01-27,Buenaventura,Energía,Cargador Frontal,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,13.0,2861.71,599.36,3461.07,Completado,No
+OT-2024378,2025-01-27,Constructora Andina,Energía,Tractor,Mando Final,Mantenimiento Hidráulico,Ana Torres,4.3,2184.95,151.89,2336.84,Completado,No
+OT-2024136,2025-01-27,Buenaventura,Energía,Retroexcavadora,Cilindro Hidráulico,Sistema Eléctrico,Carlos Mamani,5.5,6523.35,276.94,6800.29,Completado,No
+OT-2024536,2025-01-28,Cementos Yura,Construcción,Excavadora,Motor Eléctrico,Mantenimiento Hidráulico,Luis Flores,5.3,6079.02,219.07,6298.09,En proceso,No
+OT-2024576,2025-01-30,Cementos Yura,Construcción,Volquete,Acumulador de Freno,Mantenimiento Hidráulico,Carlos Mamani,7.1,5444.42,306.85,5751.27,Completado,No
+OT-2024562,2025-01-30,Yura S.A.,Minería,Perforadora,Rueda,Mantenimiento Hidráulico,Pedro Vilca,5.4,2027.74,191.65,2219.39,Completado,No
+OT-2024557,2025-01-31,Minera Chapi,Minería,Cargador Frontal,Estructura Metálica,Sistema Eléctrico,Pedro Vilca,5.1,4772.64,241.28,5013.92,Completado,No
+OT-2024511,2025-01-31,Cerro Verde,Construcción,Volquete,Mando Final,Sistema Eléctrico,Pedro Vilca,4.1,1845.57,229.77,2075.34,Completado,Sí
+OT-2024306,2025-02-01,Cementos Yura,Minería,Volquete,Cucharón,Mantenimiento Hidráulico,Luis Flores,8.8,5917.43,456.75,6374.18,Completado,No
+OT-2024589,2025-02-01,Consorcio Vial Sur,Construcción,Retroexcavadora,Cilindro Hidráulico,Sistema Eléctrico,Carlos Mamani,3.2,5517.93,183.1,5701.03,Completado,No
+OT-2024135,2025-02-01,Aceros Arequipa,Energía,Perforadora,Suspensión,Mantenimiento Hidráulico,José Quispe,13.5,532.54,597.85,1130.39,En proceso,No
+OT-2024393,2025-02-03,Minera Chapi,Construcción,Grúa,Estructura Metálica,Mantenimiento Hidráulico,Luis Flores,5.7,4992.32,274.12,5266.44,Completado,No
+OT-2024312,2025-02-04,Minera Chapi,Construcción,Volquete,Bastidor,Mantenimiento Hidráulico,Luis Flores,4.8,4933.41,273.72,5207.13,Pendiente,No
+OT-2024232,2025-02-04,Minera Chapi,Energía,Tractor,Rueda,Soldadura,Luis Flores,3.2,5438.81,158.58,5597.39,En proceso,No
+OT-2024074,2025-02-05,Constructora Andina,Energía,Grúa,Mando Final,Soldadura,Pedro Vilca,5.5,5128.15,228.22,5356.37,Completado,No
+OT-2024218,2025-02-06,Buenaventura,Energía,Cargador Frontal,Estructura Metálica,Mantenimiento Hidráulico,Pedro Vilca,5.9,6039.43,253.34,6292.77,Completado,Sí
+OT-2024247,2025-02-06,Aceros Arequipa,Construcción,Tractor,Cucharón,Mantenimiento Hidráulico,José Quispe,10.7,3554.8,616.26,4171.06,En proceso,No
+OT-2024281,2025-02-07,Buenaventura,Construcción,Cargador Frontal,Cucharón,Sistema Eléctrico,Carlos Mamani,3.5,1885.27,193.32,2078.59,Completado,No
+OT-2024147,2025-02-10,Constructora Andina,Minería,Retroexcavadora,Mando Final,Soldadura,Carlos Mamani,5.1,6136.75,198.91,6335.66,En proceso,No
+OT-2024122,2025-02-10,Transportes Rodríguez,Industria,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,7.9,3183.7,300.17,3483.87,Pendiente,No
+OT-2024385,2025-02-11,Consorcio Vial Sur,Transporte,Perforadora,Arrancador,Mantenimiento Hidráulico,Ana Torres,9.8,4986.38,562.99,5549.37,En proceso,No
+OT-2024184,2025-02-14,Constructora Andina,Construcción,Perforadora,Bastidor,Sistema Eléctrico,Miguel Choque,3.0,6974.7,109.85,7084.55,En proceso,No
+OT-2024530,2025-02-16,Transportes Rodríguez,Construcción,Perforadora,Cucharón,Soldadura,Carlos Mamani,5.5,4742.99,218.16,4961.15,Pendiente,No
+OT-2024022,2025-02-17,Cerro Verde,Minería,Volquete,Estructura Metálica,Soldadura,Ana Torres,8.7,3154.43,377.89,3532.32,Completado,No
+OT-2024260,2025-02-18,Transportes Rodríguez,Transporte,Retroexcavadora,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,8.7,5481.79,440.44,5922.23,Completado,No
+OT-2024226,2025-02-19,Cementos Yura,Energía,Grúa,Motor Eléctrico,Mantenimiento Hidráulico,Ana Torres,6.6,4717.57,245.08,4962.65,En proceso,Sí
+OT-2024506,2025-02-20,Minera Chapi,Construcción,Cargador Frontal,Arrancador,Mantenimiento Hidráulico,Miguel Choque,5.6,1950.19,266.63,2216.82,Completado,No
+OT-2024522,2025-02-21,Aceros Arequipa,Industria,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,José Quispe,2.8,3669.75,160.96,3830.71,Completado,No
+OT-2024110,2025-02-22,Yura S.A.,Minería,Retroexcavadora,Estructura Metálica,Sistema Eléctrico,Luis Flores,5.8,755.99,341.43,1097.42,Completado,No
+OT-2024532,2025-02-23,Buenaventura,Construcción,Volquete,Motor Eléctrico,Soldadura,Pedro Vilca,6.8,5781.84,354.78,6136.62,Completado,No
+OT-2024289,2025-02-23,Cementos Yura,Transporte,Excavadora,Bastidor,Soldadura,Carlos Mamani,4.4,7107.83,178.41,7286.24,Pendiente,No
+OT-2024290,2025-02-25,Yura S.A.,Energía,Excavadora,Mando Final,Sistema Eléctrico,Luis Flores,3.9,2802.3,213.68,3015.98,Pendiente,No
+OT-2024502,2025-03-02,Cementos Yura,Minería,Perforadora,Rueda,Soldadura,Pedro Vilca,5.4,4647.42,271.38,4918.8,En proceso,No
+OT-2024061,2025-03-03,Cerro Verde,Minería,Cargador Frontal,Rueda,Sistema Eléctrico,Pedro Vilca,3.9,4257.31,178.11,4435.42,Completado,No
+OT-2024473,2025-03-07,Transportes Rodríguez,Energía,Grúa,Motor Eléctrico,Cromado Duro,Pedro Vilca,8.3,5354.05,358.54,5712.59,Completado,No
+OT-2024461,2025-03-10,Buenaventura,Minería,Cargador Frontal,Bastidor,Sistema Eléctrico,Ana Torres,6.1,6791.31,273.75,7065.06,En proceso,Sí
+OT-2024001,2025-03-11,Minera Chapi,Industria,Tractor,Acumulador de Freno,Soldadura,Pedro Vilca,5.2,6932.48,296.45,7228.93,En proceso,No
+OT-2024325,2025-03-13,Consorcio Vial Sur,Transporte,Excavadora,Suspensión,Mantenimiento Hidráulico,José Quispe,11.3,5889.82,557.44,6447.26,En proceso,No
+OT-2024228,2025-03-14,Buenaventura,Construcción,Grúa,Cilindro Hidráulico,Sistema Eléctrico,Miguel Choque,5.3,2280.07,281.54,2561.61,En proceso,No
+OT-2024486,2025-03-17,Yura S.A.,Minería,Excavadora,Estructura Metálica,Soldadura,Ana Torres,9.8,1878.21,496.73,2374.94,Pendiente,No
+OT-2024200,2025-03-17,Buenaventura,Industria,Retroexcavadora,Suspensión,Mantenimiento Hidráulico,José Quispe,3.6,382.15,194.06,576.21,En proceso,No
+OT-2024414,2025-03-19,Cementos Yura,Minería,Excavadora,Estructura Metálica,Soldadura,Luis Flores,4.0,3468.98,199.93,3668.91,Completado,No
+OT-2024563,2025-03-20,Southern Perú,Minería,Grúa,Motor Eléctrico,Soldadura,José Quispe,1.0,7846.04,51.25,7897.29,Completado,No
+OT-2024455,2025-03-22,Transportes Rodríguez,Minería,Grúa,Bastidor,Mantenimiento Hidráulico,Carlos Mamani,11.9,634.78,597.92,1232.7,Completado,No
+OT-2024469,2025-03-28,Buenaventura,Minería,Volquete,Mando Final,Cromado Duro,Carlos Mamani,8.9,5609.74,369.11,5978.85,En proceso,Sí
+OT-2024272,2025-03-28,Consorcio Vial Sur,Minería,Perforadora,Cilindro Hidráulico,Sistema Eléctrico,Ana Torres,4.0,4983.68,203.77,5187.45,En proceso,No
+OT-2024333,2025-03-28,Transportes Rodríguez,Industria,Volquete,Acumulador de Freno,Soldadura,Miguel Choque,8.9,5296.39,354.29,5650.68,Completado,No
+OT-2024060,2025-03-30,Minera Chapi,Minería,Excavadora,Acumulador de Freno,Soldadura,Ana Torres,7.5,4336.07,345.19,4681.26,Completado,No
+OT-2024567,2025-03-30,Consorcio Vial Sur,Construcción,Grúa,Acumulador de Freno,Soldadura,José Quispe,8.0,6616.73,282.66,6899.39,Completado,No
+OT-2024183,2025-03-31,Aceros Arequipa,Minería,Retroexcavadora,Mando Final,Soldadura,Miguel Choque,7.2,7964.41,406.03,8370.44,Completado,No
+OT-2024081,2025-03-31,Cerro Verde,Energía,Volquete,Suspensión,Cromado Duro,Miguel Choque,13.2,2141.23,748.65,2889.88,Completado,No
+OT-2024537,2025-04-01,Minera Chapi,Industria,Cargador Frontal,Cucharón,Soldadura,Luis Flores,3.4,3362.68,202.65,3565.33,Completado,No
+OT-2024012,2025-04-03,Yura S.A.,Industria,Tractor,Rueda,Mantenimiento Hidráulico,Pedro Vilca,5.7,3480.18,311.32,3791.5,Completado,No
+OT-2024027,2025-04-04,Constructora Andina,Energía,Excavadora,Suspensión,Soldadura,Carlos Mamani,4.2,4479.1,204.64,4683.74,Completado,No
+OT-2024316,2025-04-04,Constructora Andina,Minería,Perforadora,Cilindro Hidráulico,Cromado Duro,Miguel Choque,3.5,8354.69,151.05,8505.74,Pendiente,No
+OT-2024140,2025-04-05,Buenaventura,Minería,Tractor,Cilindro Hidráulico,Soldadura,Carlos Mamani,2.3,4487.01,128.26,4615.27,Completado,Sí
+OT-2024130,2025-04-06,Cerro Verde,Construcción,Cargador Frontal,Bastidor,Soldadura,Carlos Mamani,2.6,678.53,141.75,820.28,Completado,No
+OT-2024082,2025-04-06,Consorcio Vial Sur,Construcción,Excavadora,Estructura Metálica,Soldadura,Pedro Vilca,4.8,1115.0,183.02,1298.02,Pendiente,No
+OT-2024244,2025-04-08,Cerro Verde,Industria,Retroexcavadora,Acumulador de Freno,Mantenimiento Hidráulico,Ana Torres,9.0,7617.24,444.85,8062.09,Completado,No
+OT-2024009,2025-04-11,Aceros Arequipa,Minería,Grúa,Cilindro Hidráulico,Soldadura,Ana Torres,4.3,695.39,154.46,849.85,Pendiente,No
+OT-2024578,2025-04-13,Buenaventura,Minería,Grúa,Bastidor,Sistema Eléctrico,Miguel Choque,4.6,2949.73,244.11,3193.84,Completado,No
+OT-2024317,2025-04-14,Cerro Verde,Minería,Perforadora,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,6.1,7807.91,239.44,8047.35,Completado,No
+OT-2024395,2025-04-15,Aceros Arequipa,Minería,Cargador Frontal,Cilindro Hidráulico,Mantenimiento Hidráulico,José Quispe,10.3,3362.3,493.44,3855.74,Pendiente,No
+OT-2024195,2025-04-16,Aceros Arequipa,Energía,Perforadora,Alternador,Mantenimiento Hidráulico,Carlos Mamani,6.7,3990.8,331.18,4321.98,En proceso,Sí
+OT-2024103,2025-04-16,Constructora Andina,Energía,Volquete,Bastidor,Mantenimiento Hidráulico,Carlos Mamani,8.5,336.62,349.38,686.0,En proceso,No
+OT-2024171,2025-04-17,Aceros Arequipa,Transporte,Cargador Frontal,Acumulador de Freno,Soldadura,Miguel Choque,4.2,7743.59,190.86,7934.45,Completado,No
+OT-2024258,2025-04-17,Constructora Andina,Transporte,Volquete,Estructura Metálica,Sistema Eléctrico,Carlos Mamani,4.5,5004.11,252.37,5256.48,Completado,No
+OT-2024296,2025-04-17,Minera Chapi,Transporte,Retroexcavadora,Motor Eléctrico,Sistema Eléctrico,Miguel Choque,3.1,7145.19,166.62,7311.81,Completado,No
+OT-2024437,2025-04-18,Constructora Andina,Construcción,Cargador Frontal,Alternador,Soldadura,José Quispe,9.6,7381.39,418.8,7800.19,Completado,Sí
+OT-2024472,2025-04-18,Cerro Verde,Minería,Retroexcavadora,Rueda,Sistema Eléctrico,Pedro Vilca,5.7,3207.32,271.7,3479.02,En proceso,No
+OT-2024032,2025-04-19,Southern Perú,Construcción,Perforadora,Arrancador,Soldadura,Miguel Choque,8.0,5611.0,313.35,5924.35,Pendiente,No
+OT-2024495,2025-04-19,Consorcio Vial Sur,Construcción,Cargador Frontal,Suspensión,Sistema Eléctrico,José Quispe,5.9,3878.69,240.05,4118.74,Completado,No
+OT-2024036,2025-04-20,Consorcio Vial Sur,Industria,Retroexcavadora,Bastidor,Mantenimiento Hidráulico,Ana Torres,8.7,4969.34,308.44,5277.78,Completado,No
+OT-2024382,2025-04-21,Cementos Yura,Minería,Tractor,Suspensión,Soldadura,Ana Torres,7.6,7008.3,360.99,7369.29,Completado,No
+OT-2024072,2025-04-21,Minera Chapi,Energía,Retroexcavadora,Motor Eléctrico,Mantenimiento Hidráulico,Carlos Mamani,3.3,7454.7,124.23,7578.93,Completado,No
+OT-2024344,2025-04-21,Southern Perú,Construcción,Retroexcavadora,Cilindro Hidráulico,Sistema Eléctrico,Carlos Mamani,3.9,2910.65,141.41,3052.06,Completado,Sí
+OT-2024332,2025-04-25,Constructora Andina,Minería,Volquete,Rueda,Mantenimiento Hidráulico,Luis Flores,6.3,882.88,265.04,1147.92,En proceso,No
+OT-2024579,2025-04-28,Consorcio Vial Sur,Construcción,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,José Quispe,7.0,7561.38,415.89,7977.27,Completado,No
+OT-2024146,2025-04-29,Constructora Andina,Transporte,Grúa,Mando Final,Mantenimiento Hidráulico,Ana Torres,13.0,5915.85,631.23,6547.08,En proceso,No
+OT-2024045,2025-04-29,Constructora Andina,Minería,Grúa,Bastidor,Soldadura,Pedro Vilca,9.4,2846.32,462.82,3309.14,Completado,No
+OT-2024450,2025-05-02,Cementos Yura,Transporte,Cargador Frontal,Cucharón,Cromado Duro,José Quispe,11.3,697.04,446.09,1143.13,Completado,No
+OT-2024253,2025-05-03,Constructora Andina,Energía,Grúa,Suspensión,Mantenimiento Hidráulico,Carlos Mamani,13.4,7235.13,739.24,7974.37,Completado,No
+OT-2024375,2025-05-04,Southern Perú,Energía,Tractor,Rueda,Sistema Eléctrico,Pedro Vilca,1.0,6321.2,59.86,6381.06,Completado,No
+OT-2024113,2025-05-04,Buenaventura,Minería,Retroexcavadora,Cucharón,Soldadura,Pedro Vilca,5.2,6486.74,253.53,6740.27,Pendiente,Sí
+OT-2024021,2025-05-06,Buenaventura,Energía,Retroexcavadora,Rueda,Soldadura,Miguel Choque,2.6,2019.09,113.29,2132.38,Completado,No
+OT-2024528,2025-05-07,Constructora Andina,Minería,Retroexcavadora,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,12.0,2108.31,546.39,2654.7,Pendiente,No
+OT-2024094,2025-05-07,Cerro Verde,Minería,Retroexcavadora,Estructura Metálica,Soldadura,Ana Torres,3.4,5783.43,196.27,5979.7,Completado,No
+OT-2024199,2025-05-11,Cerro Verde,Construcción,Volquete,Mando Final,Soldadura,Luis Flores,3.9,4565.57,146.76,4712.33,Pendiente,No
+OT-2024493,2025-05-11,Consorcio Vial Sur,Energía,Perforadora,Motor Eléctrico,Cromado Duro,Pedro Vilca,13.5,4588.34,510.01,5098.35,Pendiente,Sí
+OT-2024352,2025-05-11,Aceros Arequipa,Energía,Perforadora,Rueda,Sistema Eléctrico,Luis Flores,6.7,3345.04,360.53,3705.57,Pendiente,No
+OT-2024106,2025-05-13,Transportes Rodríguez,Transporte,Retroexcavadora,Cilindro Hidráulico,Sistema Eléctrico,Miguel Choque,5.4,3597.55,299.41,3896.96,Completado,No
+OT-2024516,2025-05-13,Yura S.A.,Construcción,Retroexcavadora,Motor Eléctrico,Soldadura,Luis Flores,7.9,3772.11,354.87,4126.98,Pendiente,No
+OT-2024526,2025-05-15,Yura S.A.,Construcción,Grúa,Motor Eléctrico,Cromado Duro,Ana Torres,8.5,9705.2,369.37,10074.57,Pendiente,No
+OT-2024121,2025-05-17,Cementos Yura,Minería,Cargador Frontal,Alternador,Mantenimiento Hidráulico,Miguel Choque,1.8,4585.92,106.09,4692.01,Completado,No
+OT-2024134,2025-05-17,Aceros Arequipa,Energía,Retroexcavadora,Suspensión,Soldadura,Ana Torres,6.0,5511.6,238.45,5750.05,Completado,No
+OT-2024308,2025-05-18,Minera Chapi,Transporte,Perforadora,Alternador,Soldadura,Carlos Mamani,7.3,1058.49,424.32,1482.81,Completado,No
+OT-2024043,2025-05-19,Consorcio Vial Sur,Minería,Retroexcavadora,Cucharón,Soldadura,Luis Flores,1.0,3952.49,47.43,3999.92,Completado,No
+OT-2024169,2025-05-20,Yura S.A.,Energía,Volquete,Bastidor,Soldadura,Pedro Vilca,1.4,4551.0,54.81,4605.81,Completado,No
+OT-2024571,2025-05-20,Cerro Verde,Transporte,Excavadora,Suspensión,Mantenimiento Hidráulico,Pedro Vilca,16.1,324.18,811.51,1135.69,Completado,No
+OT-2024387,2025-05-20,Buenaventura,Construcción,Grúa,Alternador,Cromado Duro,Ana Torres,21.0,6629.13,1223.59,7852.72,Completado,No
+OT-2024062,2025-05-23,Southern Perú,Construcción,Retroexcavadora,Alternador,Sistema Eléctrico,Miguel Choque,5.4,6430.51,323.72,6754.23,Completado,No
+OT-2024295,2025-05-24,Buenaventura,Energía,Volquete,Suspensión,Soldadura,Luis Flores,6.6,6299.29,355.04,6654.33,En proceso,No
+OT-2024203,2025-05-24,Consorcio Vial Sur,Minería,Tractor,Bastidor,Soldadura,Ana Torres,1.0,5483.62,40.88,5524.5,Completado,No
+OT-2024249,2025-05-25,Cerro Verde,Energía,Cargador Frontal,Acumulador de Freno,Soldadura,Luis Flores,1.7,6524.85,95.02,6619.87,Completado,No
+OT-2024237,2025-05-25,Constructora Andina,Minería,Volquete,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,8.7,3777.06,426.49,4203.55,Completado,No
+OT-2024034,2025-05-25,Cerro Verde,Minería,Volquete,Mando Final,Mantenimiento Hidráulico,Miguel Choque,13.1,1369.36,533.58,1902.94,En proceso,No
+OT-2024392,2025-05-26,Cementos Yura,Construcción,Tractor,Mando Final,Soldadura,Luis Flores,7.8,4414.18,288.46,4702.64,Completado,No
+OT-2024339,2025-05-26,Consorcio Vial Sur,Minería,Grúa,Cilindro Hidráulico,Sistema Eléctrico,Miguel Choque,2.1,7533.72,105.2,7638.92,Pendiente,No
+OT-2024444,2025-05-27,Southern Perú,Industria,Cargador Frontal,Cucharón,Mantenimiento Hidráulico,José Quispe,9.5,6501.35,507.63,7008.98,Completado,No
+OT-2024335,2025-05-30,Constructora Andina,Industria,Cargador Frontal,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,1.0,2878.42,55.86,2934.28,En proceso,No
+OT-2024489,2025-05-30,Consorcio Vial Sur,Minería,Cargador Frontal,Cilindro Hidráulico,Mantenimiento Hidráulico,José Quispe,7.3,2091.85,308.73,2400.58,Completado,No
+OT-2024347,2025-06-01,Buenaventura,Transporte,Excavadora,Rueda,Mantenimiento Hidráulico,José Quispe,12.2,1793.12,432.11,2225.23,Pendiente,No
+OT-2024099,2025-06-04,Aceros Arequipa,Industria,Retroexcavadora,Cilindro Hidráulico,Soldadura,Luis Flores,4.1,466.66,244.64,711.3,Pendiente,No
+OT-2024481,2025-06-05,Cementos Yura,Construcción,Retroexcavadora,Suspensión,Sistema Eléctrico,Luis Flores,1.0,2897.7,35.88,2933.58,Completado,No
+OT-2024549,2025-06-08,Cementos Yura,Minería,Grúa,Alternador,Soldadura,Miguel Choque,9.3,1499.0,554.79,2053.79,En proceso,No
+OT-2024153,2025-06-08,Buenaventura,Transporte,Perforadora,Acumulador de Freno,Mantenimiento Hidráulico,Luis Flores,9.2,5164.63,356.27,5520.9,Pendiente,No
+OT-2024386,2025-06-08,Constructora Andina,Industria,Retroexcavadora,Alternador,Mantenimiento Hidráulico,Ana Torres,10.0,2997.25,577.83,3575.08,Completado,Sí
+OT-2024384,2025-06-21,Transportes Rodríguez,Construcción,Volquete,Estructura Metálica,Sistema Eléctrico,Pedro Vilca,4.0,720.21,144.81,865.02,En proceso,No
+OT-2024151,2025-06-24,Consorcio Vial Sur,Minería,Retroexcavadora,Acumulador de Freno,Soldadura,Carlos Mamani,6.2,214.66,244.65,459.31,En proceso,Sí
+OT-2024500,2025-06-28,Cementos Yura,Construcción,Grúa,Cucharón,Mantenimiento Hidráulico,Miguel Choque,10.8,6600.62,483.91,7084.53,En proceso,No
+OT-2024128,2025-06-30,Cerro Verde,Minería,Cargador Frontal,Acumulador de Freno,Soldadura,Carlos Mamani,3.7,7631.82,205.83,7837.65,En proceso,No
+OT-2024336,2025-06-30,Cerro Verde,Minería,Grúa,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,11.2,2329.01,487.6,2816.61,Completado,No
+OT-2024541,2025-07-01,Minera Chapi,Minería,Cargador Frontal,Suspensión,Soldadura,Carlos Mamani,2.8,5481.57,145.79,5627.36,En proceso,No
+OT-2024255,2025-07-04,Southern Perú,Industria,Cargador Frontal,Bastidor,Soldadura,Luis Flores,1.0,6289.71,52.71,6342.42,Completado,No
+OT-2024475,2025-07-04,Buenaventura,Minería,Grúa,Alternador,Sistema Eléctrico,Miguel Choque,4.3,6051.2,199.61,6250.81,Completado,No
+OT-2024139,2025-07-07,Yura S.A.,Minería,Retroexcavadora,Acumulador de Freno,Mantenimiento Hidráulico,Ana Torres,9.2,6020.42,473.58,6494.0,Completado,No
+OT-2024165,2025-07-09,Minera Chapi,Energía,Cargador Frontal,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,11.6,7828.88,636.26,8465.14,En proceso,No
+OT-2024509,2025-07-09,Cerro Verde,Minería,Tractor,Cucharón,Mantenimiento Hidráulico,José Quispe,6.8,2661.94,321.47,2983.41,Completado,No
+OT-2024076,2025-07-09,Constructora Andina,Minería,Cargador Frontal,Acumulador de Freno,Cromado Duro,Luis Flores,14.5,7444.92,679.17,8124.09,Completado,Sí
+OT-2024160,2025-07-10,Cerro Verde,Transporte,Volquete,Acumulador de Freno,Mantenimiento Hidráulico,Ana Torres,8.4,3406.55,366.94,3773.49,Completado,No
+OT-2024448,2025-07-13,Southern Perú,Construcción,Grúa,Estructura Metálica,Mantenimiento Hidráulico,Carlos Mamani,11.7,1447.06,611.69,2058.75,En proceso,No
+OT-2024031,2025-07-14,Minera Chapi,Construcción,Retroexcavadora,Bastidor,Sistema Eléctrico,Luis Flores,8.2,4121.22,334.6,4455.82,Completado,No
+OT-2024066,2025-07-15,Transportes Rodríguez,Energía,Grúa,Cucharón,Soldadura,Carlos Mamani,3.4,1919.79,134.85,2054.64,Completado,No
+OT-2024040,2025-07-16,Transportes Rodríguez,Minería,Cargador Frontal,Suspensión,Mantenimiento Hidráulico,Carlos Mamani,8.0,3467.62,462.97,3930.59,Completado,No
+OT-2024324,2025-07-16,Cementos Yura,Energía,Volquete,Motor Eléctrico,Mantenimiento Hidráulico,Luis Flores,5.8,7431.57,343.64,7775.21,Completado,No
+OT-2024570,2025-07-17,Minera Chapi,Industria,Grúa,Bastidor,Mantenimiento Hidráulico,Miguel Choque,16.0,897.89,727.19,1625.08,Completado,No
+OT-2024201,2025-07-17,Southern Perú,Minería,Volquete,Acumulador de Freno,Mantenimiento Hidráulico,Carlos Mamani,6.6,7129.55,330.49,7460.04,Pendiente,No
+OT-2024144,2025-07-17,Cementos Yura,Construcción,Retroexcavadora,Suspensión,Sistema Eléctrico,Pedro Vilca,1.3,6564.39,73.49,6637.88,En proceso,No
+OT-2024580,2025-07-18,Southern Perú,Energía,Tractor,Cucharón,Soldadura,Luis Flores,4.1,1086.44,143.9,1230.34,En proceso,No
+OT-2024056,2025-07-18,Southern Perú,Industria,Perforadora,Cilindro Hidráulico,Soldadura,Miguel Choque,6.6,3015.6,246.11,3261.71,Completado,No
+OT-2024070,2025-07-19,Cerro Verde,Construcción,Grúa,Mando Final,Mantenimiento Hidráulico,José Quispe,10.2,1053.86,585.09,1638.95,Completado,No
+OT-2024215,2025-07-19,Aceros Arequipa,Minería,Volquete,Suspensión,Mantenimiento Hidráulico,Luis Flores,8.0,4749.41,448.45,5197.86,Completado,No
+OT-2024366,2025-07-19,Buenaventura,Construcción,Perforadora,Cucharón,Mantenimiento Hidráulico,Miguel Choque,4.9,5435.91,204.65,5640.56,Completado,No
+OT-2024041,2025-07-20,Constructora Andina,Construcción,Excavadora,Cucharón,Cromado Duro,Luis Flores,5.4,1767.44,244.97,2012.41,Completado,No
+OT-2024583,2025-07-22,Aceros Arequipa,Transporte,Tractor,Arrancador,Soldadura,Carlos Mamani,8.0,7580.26,395.95,7976.21,Pendiente,No
+OT-2024408,2025-07-23,Minera Chapi,Transporte,Grúa,Mando Final,Mantenimiento Hidráulico,José Quispe,8.4,5895.9,396.87,6292.77,En proceso,No
+OT-2024367,2025-07-23,Yura S.A.,Industria,Cargador Frontal,Arrancador,Mantenimiento Hidráulico,Miguel Choque,13.3,2944.08,718.76,3662.84,Completado,No
+OT-2024418,2025-07-25,Cementos Yura,Minería,Perforadora,Motor Eléctrico,Sistema Eléctrico,José Quispe,1.8,4833.59,89.53,4923.12,Completado,Sí
+OT-2024267,2025-07-25,Cerro Verde,Minería,Cargador Frontal,Estructura Metálica,Soldadura,Luis Flores,2.5,5627.22,116.13,5743.35,Completado,No
+OT-2024123,2025-07-27,Aceros Arequipa,Energía,Grúa,Acumulador de Freno,Mantenimiento Hidráulico,José Quispe,9.5,2204.97,519.63,2724.6,Pendiente,No
+OT-2024161,2025-07-27,Aceros Arequipa,Minería,Volquete,Cucharón,Sistema Eléctrico,José Quispe,1.7,6344.16,86.04,6430.2,Pendiente,No
+OT-2024403,2025-07-28,Constructora Andina,Minería,Excavadora,Rueda,Mantenimiento Hidráulico,Miguel Choque,19.0,4421.91,971.65,5393.56,Completado,Sí
+OT-2024142,2025-07-28,Cerro Verde,Minería,Perforadora,Cilindro Hidráulico,Mantenimiento Hidráulico,José Quispe,7.7,1088.86,363.06,1451.92,Completado,No
+OT-2024505,2025-07-30,Cementos Yura,Energía,Tractor,Mando Final,Mantenimiento Hidráulico,Pedro Vilca,12.7,6222.79,498.62,6721.41,Completado,No
+OT-2024158,2025-07-31,Constructora Andina,Minería,Grúa,Estructura Metálica,Mantenimiento Hidráulico,Miguel Choque,6.9,7396.46,322.93,7719.39,Completado,Sí
+OT-2024305,2025-08-02,Yura S.A.,Industria,Retroexcavadora,Suspensión,Sistema Eléctrico,Ana Torres,3.7,503.72,206.93,710.65,Completado,No
+OT-2024456,2025-08-03,Southern Perú,Minería,Grúa,Bastidor,Mantenimiento Hidráulico,José Quispe,6.7,2115.29,370.56,2485.85,Completado,No
+OT-2024287,2025-08-09,Southern Perú,Construcción,Retroexcavadora,Cucharón,Soldadura,José Quispe,5.6,4688.19,199.1,4887.29,Completado,No
+OT-2024597,2025-08-10,Buenaventura,Construcción,Perforadora,Mando Final,Soldadura,José Quispe,8.3,1304.61,311.77,1616.38,Pendiente,No
+OT-2024107,2025-08-15,Southern Perú,Construcción,Volquete,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,10.5,5624.64,469.5,6094.14,Completado,No
+OT-2024554,2025-08-18,Minera Chapi,Construcción,Tractor,Bastidor,Soldadura,Ana Torres,5.0,5800.93,230.34,6031.27,Completado,No
+OT-2024051,2025-08-23,Transportes Rodríguez,Transporte,Cargador Frontal,Alternador,Sistema Eléctrico,Ana Torres,6.3,1031.31,242.55,1273.86,Completado,No
+OT-2024449,2025-08-23,Transportes Rodríguez,Construcción,Perforadora,Cucharón,Soldadura,José Quispe,1.0,1122.13,45.04,1167.17,Pendiente,No
+OT-2024521,2025-08-24,Minera Chapi,Construcción,Perforadora,Acumulador de Freno,Sistema Eléctrico,Ana Torres,4.0,4319.88,186.73,4506.61,Completado,No
+OT-2024434,2025-08-26,Minera Chapi,Construcción,Retroexcavadora,Alternador,Cromado Duro,Pedro Vilca,4.8,3749.09,230.47,3979.56,Completado,No
+OT-2024520,2025-08-27,Minera Chapi,Minería,Grúa,Estructura Metálica,Sistema Eléctrico,Luis Flores,1.0,2267.88,45.8,2313.68,Completado,No
+OT-2024513,2025-08-29,Constructora Andina,Energía,Volquete,Mando Final,Soldadura,Luis Flores,3.1,5691.45,125.35,5816.8,En proceso,No
+OT-2024355,2025-08-29,Southern Perú,Construcción,Perforadora,Arrancador,Mantenimiento Hidráulico,Ana Torres,1.0,6886.09,55.51,6941.6,Completado,No
+OT-2024194,2025-08-30,Yura S.A.,Construcción,Cargador Frontal,Cilindro Hidráulico,Soldadura,Carlos Mamani,4.2,5175.44,224.8,5400.24,En proceso,No
+OT-2024487,2025-08-30,Cerro Verde,Minería,Tractor,Alternador,Mantenimiento Hidráulico,Miguel Choque,3.7,2405.57,157.67,2563.24,Completado,No
+OT-2024239,2025-08-31,Cerro Verde,Industria,Tractor,Mando Final,Soldadura,Ana Torres,6.5,7371.22,256.12,7627.34,Completado,No
+OT-2024330,2025-08-31,Cementos Yura,Transporte,Volquete,Cilindro Hidráulico,Cromado Duro,Luis Flores,8.1,3667.11,377.8,4044.91,Completado,No
+OT-2024235,2025-09-01,Cerro Verde,Minería,Tractor,Alternador,Soldadura,Luis Flores,7.9,672.91,412.77,1085.68,Completado,No
+OT-2024262,2025-09-02,Southern Perú,Minería,Excavadora,Mando Final,Mantenimiento Hidráulico,Pedro Vilca,1.9,5915.05,85.72,6000.77,Pendiente,Sí
+OT-2024561,2025-09-03,Transportes Rodríguez,Transporte,Perforadora,Motor Eléctrico,Soldadura,Pedro Vilca,3.4,392.43,153.59,546.02,Pendiente,No
+OT-2024476,2025-09-03,Minera Chapi,Construcción,Retroexcavadora,Rueda,Mantenimiento Hidráulico,José Quispe,4.1,484.4,148.91,633.31,Completado,No
+OT-2024129,2025-09-04,Consorcio Vial Sur,Construcción,Tractor,Estructura Metálica,Mantenimiento Hidráulico,Ana Torres,11.7,6258.44,445.2,6703.64,Completado,No
+OT-2024415,2025-09-04,Yura S.A.,Minería,Volquete,Cilindro Hidráulico,Mantenimiento Hidráulico,Luis Flores,5.6,912.21,240.62,1152.83,Completado,No
+OT-2024503,2025-09-04,Minera Chapi,Construcción,Tractor,Bastidor,Sistema Eléctrico,Ana Torres,4.9,1862.51,277.73,2140.24,En proceso,No
+OT-2024207,2025-09-04,Cementos Yura,Construcción,Excavadora,Mando Final,Soldadura,Ana Torres,4.0,4275.06,196.27,4471.33,Completado,No
+OT-2024007,2025-09-06,Transportes Rodríguez,Industria,Retroexcavadora,Alternador,Soldadura,José Quispe,3.6,2313.47,137.99,2451.46,Completado,Sí
+OT-2024524,2025-09-08,Southern Perú,Construcción,Volquete,Cucharón,Cromado Duro,Carlos Mamani,3.3,479.49,123.07,602.56,Completado,No
+OT-2024419,2025-09-11,Consorcio Vial Sur,Transporte,Excavadora,Alternador,Mantenimiento Hidráulico,José Quispe,1.0,2409.62,45.01,2454.63,En proceso,No
+OT-2024164,2025-09-11,Transportes Rodríguez,Minería,Perforadora,Bastidor,Soldadura,Pedro Vilca,6.1,3805.91,276.29,4082.2,En proceso,No
+OT-2024266,2025-09-15,Minera Chapi,Minería,Perforadora,Estructura Metálica,Soldadura,Miguel Choque,2.7,5322.7,159.88,5482.58,Completado,No
+OT-2024208,2025-09-16,Cementos Yura,Minería,Retroexcavadora,Cilindro Hidráulico,Soldadura,Carlos Mamani,6.3,4673.53,371.08,5044.61,Completado,No
+OT-2024288,2025-09-16,Southern Perú,Transporte,Volquete,Alternador,Mantenimiento Hidráulico,Luis Flores,11.4,1793.67,543.72,2337.39,Pendiente,No
+OT-2024527,2025-09-17,Southern Perú,Minería,Volquete,Acumulador de Freno,Soldadura,Ana Torres,1.2,5779.51,50.04,5829.55,Completado,No
+OT-2024370,2025-09-17,Cerro Verde,Construcción,Grúa,Acumulador de Freno,Sistema Eléctrico,Pedro Vilca,3.1,5476.57,154.55,5631.12,En proceso,No
+OT-2024179,2025-09-19,Cementos Yura,Minería,Volquete,Mando Final,Mantenimiento Hidráulico,José Quispe,2.3,5971.25,133.29,6104.54,Completado,No
+OT-2024286,2025-09-19,Constructora Andina,Transporte,Excavadora,Rueda,Soldadura,José Quispe,4.9,6080.15,278.25,6358.4,Completado,No
+OT-2024178,2025-09-24,Yura S.A.,Industria,Grúa,Arrancador,Sistema Eléctrico,Miguel Choque,1.0,1968.5,44.54,2013.04,Completado,No
+OT-2024443,2025-09-25,Minera Chapi,Minería,Perforadora,Alternador,Mantenimiento Hidráulico,Miguel Choque,6.9,2600.99,283.1,2884.09,Completado,No
+OT-2024591,2025-09-25,Aceros Arequipa,Construcción,Perforadora,Motor Eléctrico,Mantenimiento Hidráulico,José Quispe,2.2,2968.46,104.67,3073.13,En proceso,No
+OT-2024428,2025-09-27,Yura S.A.,Minería,Retroexcavadora,Mando Final,Mantenimiento Hidráulico,José Quispe,8.6,2003.98,353.37,2357.35,Pendiente,No
+OT-2024446,2025-09-29,Aceros Arequipa,Energía,Tractor,Arrancador,Cromado Duro,Ana Torres,14.4,5782.56,532.03,6314.59,Completado,No
+OT-2024219,2025-09-29,Cementos Yura,Minería,Tractor,Arrancador,Mantenimiento Hidráulico,Carlos Mamani,8.6,6746.84,301.82,7048.66,Completado,No
+OT-2024373,2025-09-30,Cerro Verde,Transporte,Grúa,Rueda,Sistema Eléctrico,Ana Torres,6.5,5448.21,345.19,5793.4,En proceso,No
+OT-2024254,2025-10-01,Southern Perú,Transporte,Tractor,Alternador,Soldadura,Luis Flores,5.3,2297.0,268.77,2565.77,Pendiente,No
+OT-2024313,2025-10-01,Aceros Arequipa,Energía,Perforadora,Cucharón,Sistema Eléctrico,Carlos Mamani,3.7,7099.75,141.08,7240.83,Pendiente,No
+OT-2024168,2025-10-01,Aceros Arequipa,Minería,Excavadora,Bastidor,Mantenimiento Hidráulico,José Quispe,8.5,2439.68,465.98,2905.66,Completado,No
+OT-2024441,2025-10-02,Cerro Verde,Industria,Grúa,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,6.2,4372.74,222.84,4595.58,Completado,No
+OT-2024257,2025-10-02,Buenaventura,Minería,Tractor,Rueda,Soldadura,Carlos Mamani,4.8,3595.53,233.92,3829.45,Completado,No
+OT-2024213,2025-10-03,Cerro Verde,Minería,Volquete,Arrancador,Mantenimiento Hidráulico,Pedro Vilca,9.9,1065.79,546.54,1612.33,Completado,No
+OT-2024131,2025-10-04,Minera Chapi,Transporte,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Miguel Choque,9.7,782.11,529.3,1311.41,En proceso,No
+OT-2024162,2025-10-07,Cerro Verde,Transporte,Perforadora,Motor Eléctrico,Soldadura,Carlos Mamani,6.2,4946.51,271.17,5217.68,Completado,No
+OT-2024046,2025-10-08,Aceros Arequipa,Minería,Retroexcavadora,Mando Final,Cromado Duro,Miguel Choque,3.5,1141.42,177.91,1319.33,Pendiente,No
+OT-2024102,2025-10-09,Transportes Rodríguez,Energía,Grúa,Rueda,Mantenimiento Hidráulico,Carlos Mamani,8.3,1466.58,329.58,1796.16,Completado,No
+OT-2024185,2025-10-10,Transportes Rodríguez,Transporte,Volquete,Estructura Metálica,Soldadura,Miguel Choque,5.1,1272.69,221.95,1494.64,Completado,No
+OT-2024271,2025-10-13,Aceros Arequipa,Industria,Tractor,Acumulador de Freno,Soldadura,Ana Torres,4.6,5994.03,198.61,6192.64,Completado,No
+OT-2024394,2025-10-15,Buenaventura,Industria,Cargador Frontal,Estructura Metálica,Soldadura,Pedro Vilca,6.2,2361.14,362.84,2723.98,En proceso,No
+OT-2024149,2025-10-16,Southern Perú,Minería,Excavadora,Rueda,Soldadura,Ana Torres,3.9,240.79,210.7,451.49,Completado,Sí
+OT-2024425,2025-10-17,Cementos Yura,Construcción,Excavadora,Cucharón,Mantenimiento Hidráulico,Luis Flores,3.8,4282.58,220.54,4503.12,Completado,No
+OT-2024460,2025-10-17,Consorcio Vial Sur,Energía,Grúa,Cucharón,Sistema Eléctrico,Pedro Vilca,2.9,3582.82,163.01,3745.83,En proceso,No
+OT-2024432,2025-10-18,Minera Chapi,Transporte,Grúa,Rueda,Sistema Eléctrico,Pedro Vilca,6.4,3031.27,364.68,3395.95,Completado,No
+OT-2024596,2025-10-19,Yura S.A.,Construcción,Excavadora,Arrancador,Cromado Duro,Miguel Choque,14.9,6412.88,837.93,7250.81,Completado,No
+OT-2024431,2025-10-20,Southern Perú,Construcción,Retroexcavadora,Mando Final,Soldadura,Miguel Choque,7.5,1675.73,397.57,2073.3,Completado,No
+OT-2024278,2025-10-20,Southern Perú,Energía,Grúa,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,1.3,3862.3,46.42,3908.72,Completado,No
+OT-2024334,2025-10-20,Yura S.A.,Minería,Volquete,Bastidor,Cromado Duro,Luis Flores,9.2,7136.07,446.89,7582.96,En proceso,No
+OT-2024485,2025-10-20,Yura S.A.,Minería,Grúa,Rueda,Soldadura,Ana Torres,3.3,3343.64,167.85,3511.49,Completado,No
+OT-2024246,2025-10-21,Yura S.A.,Construcción,Tractor,Motor Eléctrico,Mantenimiento Hidráulico,Luis Flores,6.4,7613.58,317.06,7930.64,Completado,No
+OT-2024018,2025-10-23,Constructora Andina,Transporte,Retroexcavadora,Acumulador de Freno,Soldadura,Pedro Vilca,1.9,3142.83,66.62,3209.45,Completado,No
+OT-2024544,2025-10-24,Consorcio Vial Sur,Minería,Excavadora,Alternador,Mantenimiento Hidráulico,Ana Torres,10.8,7632.11,442.62,8074.73,Pendiente,No
+OT-2024372,2025-10-24,Buenaventura,Minería,Excavadora,Rueda,Soldadura,Miguel Choque,2.9,3932.52,168.84,4101.36,En proceso,No
+OT-2024016,2025-10-25,Aceros Arequipa,Minería,Cargador Frontal,Estructura Metálica,Sistema Eléctrico,Ana Torres,8.1,1544.09,322.44,1866.53,Completado,Sí
+OT-2024496,2025-10-25,Aceros Arequipa,Minería,Tractor,Cilindro Hidráulico,Mantenimiento Hidráulico,Pedro Vilca,7.7,2187.04,337.24,2524.28,Pendiente,No
+OT-2024191,2025-10-25,Southern Perú,Energía,Perforadora,Motor Eléctrico,Soldadura,Ana Torres,8.3,7279.37,438.66,7718.03,Completado,No
+OT-2024543,2025-10-25,Minera Chapi,Minería,Tractor,Mando Final,Mantenimiento Hidráulico,Ana Torres,4.5,6885.36,249.42,7134.78,Completado,No
+OT-2024401,2025-10-26,Minera Chapi,Minería,Perforadora,Acumulador de Freno,Mantenimiento Hidráulico,Luis Flores,8.5,4191.32,400.2,4591.52,Pendiente,No
+OT-2024430,2025-10-31,Minera Chapi,Construcción,Excavadora,Arrancador,Soldadura,Luis Flores,1.5,6905.5,88.48,6993.98,Completado,No
+OT-2024320,2025-10-31,Cementos Yura,Industria,Cargador Frontal,Arrancador,Cromado Duro,Ana Torres,6.6,715.91,251.85,967.76,Completado,No
+OT-2024224,2025-11-02,Cementos Yura,Energía,Grúa,Bastidor,Mantenimiento Hidráulico,Pedro Vilca,6.2,6613.0,348.8,6961.8,Completado,No
+OT-2024193,2025-11-02,Cementos Yura,Transporte,Volquete,Arrancador,Mantenimiento Hidráulico,Ana Torres,5.5,825.4,241.28,1066.68,Completado,No
+OT-2024285,2025-11-03,Minera Chapi,Minería,Perforadora,Mando Final,Mantenimiento Hidráulico,Pedro Vilca,11.9,4249.95,597.31,4847.26,En proceso,No
+OT-2024109,2025-11-05,Minera Chapi,Energía,Cargador Frontal,Arrancador,Mantenimiento Hidráulico,Luis Flores,14.1,4307.67,580.24,4887.91,Pendiente,No
+OT-2024498,2025-11-05,Buenaventura,Construcción,Excavadora,Cilindro Hidráulico,Soldadura,José Quispe,5.6,4633.77,306.88,4940.65,Completado,No
+OT-2024535,2025-11-06,Constructora Andina,Minería,Tractor,Motor Eléctrico,Mantenimiento Hidráulico,Ana Torres,10.2,4722.38,399.46,5121.84,Completado,No
+OT-2024187,2025-11-07,Transportes Rodríguez,Minería,Volquete,Motor Eléctrico,Mantenimiento Hidráulico,Carlos Mamani,1.6,3374.38,91.66,3466.04,Completado,Sí
+OT-2024303,2025-11-11,Buenaventura,Minería,Volquete,Mando Final,Cromado Duro,Ana Torres,15.7,3572.12,843.16,4415.28,Pendiente,No
+OT-2024159,2025-11-12,Buenaventura,Energía,Grúa,Alternador,Mantenimiento Hidráulico,Ana Torres,4.0,6339.59,237.48,6577.07,En proceso,No
+OT-2024412,2025-11-12,Cerro Verde,Minería,Perforadora,Bastidor,Soldadura,Luis Flores,2.0,3879.57,97.67,3977.24,Completado,No
+OT-2024035,2025-11-12,Constructora Andina,Construcción,Perforadora,Motor Eléctrico,Sistema Eléctrico,Pedro Vilca,3.1,4872.43,172.58,5045.01,Completado,No
+OT-2024383,2025-11-12,Buenaventura,Minería,Retroexcavadora,Alternador,Mantenimiento Hidráulico,Miguel Choque,11.3,1179.29,667.68,1846.97,Completado,No
+OT-2024222,2025-11-14,Cementos Yura,Minería,Volquete,Mando Final,Sistema Eléctrico,Miguel Choque,2.8,1210.89,145.33,1356.22,Pendiente,No
+OT-2024190,2025-11-14,Yura S.A.,Construcción,Perforadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Miguel Choque,8.5,7062.93,419.64,7482.57,Completado,Sí
+OT-2024126,2025-11-14,Minera Chapi,Minería,Excavadora,Suspensión,Mantenimiento Hidráulico,Luis Flores,6.2,7048.2,351.55,7399.75,Completado,No
+OT-2024389,2025-11-15,Buenaventura,Transporte,Retroexcavadora,Estructura Metálica,Soldadura,Miguel Choque,5.8,1098.14,331.07,1429.21,Completado,No
+OT-2024369,2025-11-16,Southern Perú,Transporte,Retroexcavadora,Motor Eléctrico,Soldadura,José Quispe,1.0,2177.96,46.77,2224.73,Completado,No
+OT-2024039,2025-11-17,Cerro Verde,Industria,Volquete,Arrancador,Soldadura,Miguel Choque,6.3,7374.87,275.05,7649.92,Completado,No
+OT-2024315,2025-11-18,Consorcio Vial Sur,Construcción,Tractor,Mando Final,Mantenimiento Hidráulico,Ana Torres,7.2,3859.04,300.34,4159.38,Completado,No
+OT-2024539,2025-11-19,Cementos Yura,Construcción,Cargador Frontal,Mando Final,Mantenimiento Hidráulico,Carlos Mamani,9.1,1668.76,387.6,2056.36,Pendiente,No
+OT-2024497,2025-11-20,Consorcio Vial Sur,Transporte,Grúa,Arrancador,Sistema Eléctrico,Luis Flores,2.7,817.86,97.68,915.54,En proceso,Sí
+OT-2024141,2025-11-21,Cementos Yura,Transporte,Cargador Frontal,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,1.0,1804.36,38.03,1842.39,Completado,No
+OT-2024501,2025-11-21,Transportes Rodríguez,Minería,Retroexcavadora,Cilindro Hidráulico,Mantenimiento Hidráulico,Carlos Mamani,14.6,6983.51,683.36,7666.87,Completado,No
+OT-2024197,2025-11-22,Cerro Verde,Minería,Retroexcavadora,Cucharón,Mantenimiento Hidráulico,Miguel Choque,12.3,413.88,551.34,965.22,Pendiente,No
+OT-2024411,2025-11-22,Yura S.A.,Transporte,Volquete,Arrancador,Soldadura,Pedro Vilca,1.0,1195.05,45.23,1240.28,Pendiente,No
+OT-2024586,2025-11-23,Southern Perú,Minería,Grúa,Mando Final,Soldadura,Pedro Vilca,8.0,4160.47,379.82,4540.29,Completado,No
+OT-2024548,2025-11-25,Cementos Yura,Minería,Grúa,Mando Final,Mantenimiento Hidráulico,Pedro Vilca,8.6,1862.99,469.07,2332.06,En proceso,No
+OT-2024463,2025-11-27,Southern Perú,Energía,Tractor,Cilindro Hidráulico,Soldadura,Ana Torres,4.4,3287.07,221.45,3508.52,Completado,No
+OT-2024402,2025-11-28,Aceros Arequipa,Minería,Perforadora,Cucharón,Mantenimiento Hidráulico,Pedro Vilca,12.2,7957.74,488.56,8446.3,Completado,No
+OT-2024558,2025-11-29,Aceros Arequipa,Construcción,Retroexcavadora,Cucharón,Soldadura,Luis Flores,6.8,1209.17,301.89,1511.06,Completado,No
+OT-2024155,2025-11-29,Minera Chapi,Construcción,Retroexcavadora,Alternador,Soldadura,Miguel Choque,1.0,1590.37,52.15,1642.52,Pendiente,No
+OT-2024210,2025-11-29,Cementos Yura,Minería,Grúa,Alternador,Mantenimiento Hidráulico,Pedro Vilca,8.3,5133.84,424.23,5558.07,Completado,No
+OT-2024357,2025-11-30,Cementos Yura,Transporte,Grúa,Cucharón,Mantenimiento Hidráulico,Carlos Mamani,2.5,3461.53,134.83,3596.36,Completado,No
+OT-2024037,2025-11-30,Constructora Andina,Energía,Volquete,Cucharón,Sistema Eléctrico,Carlos Mamani,9.3,3120.6,341.52,3462.12,Pendiente,Sí
+OT-2024005,2025-12-01,Constructora Andina,Construcción,Tractor,Suspensión,Cromado Duro,José Quispe,12.1,720.83,508.49,1229.32,En proceso,No
+OT-2024085,2025-12-02,Cerro Verde,Construcción,Excavadora,Cilindro Hidráulico,Sistema Eléctrico,Ana Torres,5.0,4565.26,176.22,4741.48,En proceso,No
+OT-2024073,2025-12-03,Minera Chapi,Minería,Tractor,Rueda,Sistema Eléctrico,Pedro Vilca,2.5,240.13,138.75,378.88,Pendiente,No
+OT-2024454,2025-12-04,Consorcio Vial Sur,Construcción,Retroexcavadora,Alternador,Soldadura,Miguel Choque,7.0,1706.65,327.48,2034.13,Completado,No
+OT-2024300,2025-12-06,Buenaventura,Transporte,Tractor,Cilindro Hidráulico,Soldadura,Miguel Choque,6.5,3799.88,387.29,4187.17,Completado,No
+OT-2024225,2025-12-10,Constructora Andina,Transporte,Cargador Frontal,Mando Final,Sistema Eléctrico,Miguel Choque,6.9,6081.38,247.7,6329.08,En proceso,No
+OT-2024182,2025-12-10,Minera Chapi,Construcción,Grúa,Cilindro Hidráulico,Cromado Duro,Pedro Vilca,14.1,6275.27,808.04,7083.31,En proceso,No
+OT-2024252,2025-12-11,Aceros Arequipa,Transporte,Volquete,Mando Final,Mantenimiento Hidráulico,Pedro Vilca,11.2,3444.36,604.54,4048.9,Completado,No
+OT-2024568,2025-12-18,Yura S.A.,Transporte,Excavadora,Alternador,Soldadura,Luis Flores,4.8,1365.18,245.79,1610.97,Completado,No
+OT-2024302,2025-12-20,Cerro Verde,Transporte,Excavadora,Estructura Metálica,Sistema Eléctrico,Ana Torres,3.3,7227.49,197.68,7425.17,Completado,No
+OT-2024088,2025-12-20,Cementos Yura,Minería,Grúa,Arrancador,Soldadura,José Quispe,6.6,4860.31,360.33,5220.64,En proceso,No
+OT-2024087,2025-12-25,Constructora Andina,Industria,Tractor,Acumulador de Freno,Cromado Duro,Pedro Vilca,7.1,786.99,344.58,1131.57,Completado,No
+OT-2024127,2025-12-26,Buenaventura,Energía,Excavadora,Estructura Metálica,Mantenimiento Hidráulico,Carlos Mamani,12.7,1944.19,748.45,2692.64,En proceso,No
+OT-2024083,2025-12-27,Constructora Andina,Construcción,Grúa,Rueda,Mantenimiento Hidráulico,Pedro Vilca,13.8,6420.96,590.07,7011.03,Completado,No
+OT-2024399,2025-12-27,Minera Chapi,Construcción,Cargador Frontal,Estructura Metálica,Cromado Duro,Ana Torres,17.3,5746.89,867.2,6614.09,Pendiente,No
+OT-2024518,2025-12-27,Minera Chapi,Minería,Grúa,Estructura Metálica,Mantenimiento Hidráulico,José Quispe,15.8,2524.05,732.75,3256.8,En proceso,No
+OT-2024124,2025-12-28,Cementos Yura,Construcción,Volquete,Acumulador de Freno,Mantenimiento Hidráulico,Pedro Vilca,3.7,3009.06,137.61,3146.67,Completado,No
+OT-2024555,2025-12-29,Southern Perú,Construcción,Excavadora,Arrancador,Soldadura,José Quispe,4.7,6673.53,213.34,6886.87,Completado,No
+OT-2024533,2025-12-29,Consorcio Vial Sur,Minería,Retroexcavadora,Mando Final,Soldadura,Pedro Vilca,3.7,6897.08,218.55,7115.63,Pendiente,No
+OT-2024223,2025-12-30,Cementos Yura,Construcción,Cargador Frontal,Mando Final,Mantenimiento Hidráulico,Miguel Choque,4.7,3008.39,276.92,3285.31,Completado,No
+OT-2024075,2025-12-30,Aceros Arequipa,Minería,Tractor,Acumulador de Freno,Soldadura,Miguel Choque,5.1,6752.95,228.5,6981.45,Completado,No
